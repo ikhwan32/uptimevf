@@ -18,6 +18,7 @@ status-website:
   # cname: demo.upptime.js.org
   baseUrl: /uptimevf
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+    theme: dark
   name: VF Uptime
   introTitle: "**VF Uptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
   introMessage: Specialized by Ikhwan Hadi
