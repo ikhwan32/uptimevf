@@ -23,18 +23,19 @@
     "icon": "https://favicons.githubusercontent.com/discord-musicbot.nexter32.repl.co",
     "slug": "penyanyi-vf-v3",
     "status": "up",
-    "uptime": "98.82%",
-    "uptimeDay": "93.83%",
-    "uptimeWeek": "98.82%",
-    "uptimeMonth": "98.82%",
-    "uptimeYear": "98.82%",
+    "uptime": "98.44%",
+    "uptimeDay": "91.85%",
+    "uptimeWeek": "98.44%",
+    "uptimeMonth": "98.44%",
+    "uptimeYear": "98.44%",
     "time": 326,
     "timeDay": 295,
     "timeWeek": 326,
     "timeMonth": 326,
     "timeYear": 326,
     "dailyMinutesDown": {
-      "2021-09-07": 89
+      "2021-09-08": 11,
+      "2021-09-07": 107
     }
   },
   {
