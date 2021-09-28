@@ -9,11 +9,9 @@ sites:
     url: https://discord-musicbot.nexter32.repl.co
   - name: Uptime VF Bot
     url: https://uptime-discord-bot.nexter32.repl.co
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
   - name: Penyanyi VF V2
     url: https://evobot-1.nexter32.repl.co
-   - name: MusicBot UITM
+  - name: MusicBot UITM
     url: https://MusicBot-UITM.nexter32.repl.co
 
 status-website:
