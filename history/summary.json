@@ -16,7 +16,7 @@
     "timeMonth": 2446,
     "timeYear": 2446,
     "dailyMinutesDown": {
-      "2021-11-19": 14,
+      "2021-11-19": 175,
       "2021-11-18": 1440,
       "2021-11-17": 1440,
       "2021-11-16": 1440,
@@ -67,9 +67,9 @@
     "url": "https://discord-musicbot.nexter32.repl.co",
     "icon": "https://favicons.githubusercontent.com/discord-musicbot.nexter32.repl.co",
     "slug": "penyanyi-vf-v3",
-    "status": "up",
+    "status": "down",
     "uptime": "97.89%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.83%",
     "uptimeMonth": "99.67%",
     "uptimeYear": "97.89%",
@@ -79,6 +79,7 @@
     "timeMonth": 655,
     "timeYear": 1059,
     "dailyMinutesDown": {
+      "2021-11-19": 0,
       "2021-11-12": 17,
       "2021-11-11": 17,
       "2021-11-05": 23,
