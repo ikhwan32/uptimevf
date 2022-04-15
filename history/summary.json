@@ -16,7 +16,7 @@
     "timeMonth": 553,
     "timeYear": 582,
     "dailyMinutesDown": {
-      "2022-04-15": 891,
+      "2022-04-15": 898,
       "2022-04-14": 1440,
       "2022-04-13": 1440,
       "2022-04-12": 1440,
@@ -352,9 +352,9 @@
     "url": "https://evobot-1.nexter32.repl.co",
     "icon": "https://favicons.githubusercontent.com/evobot-1.nexter32.repl.co",
     "slug": "penyanyi-vf-v2",
-    "status": "up",
+    "status": "down",
     "uptime": "98.94%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "98.50%",
     "uptimeMonth": "96.00%",
     "uptimeYear": "98.94%",
@@ -364,6 +364,7 @@
     "timeMonth": 4672,
     "timeYear": 2078,
     "dailyMinutesDown": {
+      "2022-04-15": 0,
       "2022-04-13": 24,
       "2022-04-12": 23,
       "2022-04-11": 59,
@@ -412,7 +413,7 @@
       "2021-09-14": 928,
       "2021-09-11": 18,
       "2021-09-08": 54,
-      "2021-09-07": 62
+      "2021-09-07": 43
     }
   },
   {
@@ -421,18 +422,17 @@
     "icon": "https://favicons.githubusercontent.com/musicbot-uitm.nexter32.repl.co",
     "slug": "music-bot-uitm",
     "status": "up",
-    "uptime": "99.00%",
-    "uptimeDay": "99.51%",
-    "uptimeWeek": "98.63%",
-    "uptimeMonth": "95.38%",
-    "uptimeYear": "99.00%",
+    "uptime": "99.01%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "98.70%",
+    "uptimeMonth": "95.40%",
+    "uptimeYear": "99.01%",
     "time": 2594,
     "timeDay": 4051,
     "timeWeek": 1352,
     "timeMonth": 4397,
     "timeYear": 2594,
     "dailyMinutesDown": {
-      "2022-04-15": 7,
       "2022-04-13": 24,
       "2022-04-12": 23,
       "2022-04-11": 59,
