@@ -16,7 +16,7 @@
     "timeMonth": 408,
     "timeYear": 577,
     "dailyMinutesDown": {
-      "2022-04-30": 1004,
+      "2022-04-30": 1079,
       "2022-04-29": 1440,
       "2022-04-28": 1440,
       "2022-04-27": 1440,
@@ -229,9 +229,9 @@
     "url": "https://discord-musicbot.nexter32.repl.co",
     "icon": "https://favicons.githubusercontent.com/discord-musicbot.nexter32.repl.co",
     "slug": "penyanyi-vf-v3",
-    "status": "up",
+    "status": "down",
     "uptime": "98.60%",
-    "uptimeDay": "98.06%",
+    "uptimeDay": "98.05%",
     "uptimeWeek": "98.83%",
     "uptimeMonth": "97.88%",
     "uptimeYear": "98.60%",
@@ -305,9 +305,9 @@
     "url": "https://uptime-discord-bot.nexter32.repl.co",
     "icon": "https://favicons.githubusercontent.com/uptime-discord-bot.nexter32.repl.co",
     "slug": "uptime-vf-bot",
-    "status": "up",
+    "status": "down",
     "uptime": "99.42%",
-    "uptimeDay": "98.55%",
+    "uptimeDay": "98.54%",
     "uptimeWeek": "98.61%",
     "uptimeMonth": "97.54%",
     "uptimeYear": "99.42%",
@@ -364,8 +364,7 @@
       "2021-11-12": 17,
       "2021-11-11": 17,
       "2021-11-05": 23,
-      "2021-10-30": 22,
-      "2021-10-29": 28
+      "2021-10-30": 22
     }
   },
   {
@@ -373,12 +372,12 @@
     "url": "https://evobot-1.nexter32.repl.co",
     "icon": "https://favicons.githubusercontent.com/evobot-1.nexter32.repl.co",
     "slug": "penyanyi-vf-v2",
-    "status": "up",
-    "uptime": "99.37%",
-    "uptimeDay": "98.55%",
+    "status": "down",
+    "uptime": "99.38%",
+    "uptimeDay": "98.54%",
     "uptimeWeek": "98.88%",
     "uptimeMonth": "97.49%",
-    "uptimeYear": "99.37%",
+    "uptimeYear": "99.38%",
     "time": 2133,
     "timeDay": 5445,
     "timeWeek": 3957,
@@ -431,8 +430,7 @@
       "2022-02-09": 17,
       "2021-12-23": 16,
       "2021-12-07": 61,
-      "2021-11-12": 17,
-      "2021-11-11": 17
+      "2021-11-12": 17
     }
   },
   {
@@ -440,9 +438,9 @@
     "url": "https://MusicBot-UITM.nexter32.repl.co",
     "icon": "https://favicons.githubusercontent.com/musicbot-uitm.nexter32.repl.co",
     "slug": "music-bot-uitm",
-    "status": "up",
+    "status": "down",
     "uptime": "99.00%",
-    "uptimeDay": "96.27%",
+    "uptimeDay": "96.25%",
     "uptimeWeek": "98.07%",
     "uptimeMonth": "96.88%",
     "uptimeYear": "99.00%",
@@ -493,8 +491,7 @@
       "2022-02-26": 52,
       "2022-02-25": 30,
       "2022-02-24": 26,
-      "2022-02-21": 60,
-      "2022-02-09": 17
+      "2022-02-21": 60
     }
   }
 ]
