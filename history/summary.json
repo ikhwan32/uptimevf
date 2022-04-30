@@ -16,7 +16,7 @@
     "timeMonth": 408,
     "timeYear": 577,
     "dailyMinutesDown": {
-      "2022-04-30": 1166,
+      "2022-04-30": 1227,
       "2022-04-29": 1440,
       "2022-04-28": 1440,
       "2022-04-27": 1440,
@@ -305,9 +305,9 @@
     "url": "https://uptime-discord-bot.nexter32.repl.co",
     "icon": "https://favicons.githubusercontent.com/uptime-discord-bot.nexter32.repl.co",
     "slug": "uptime-vf-bot",
-    "status": "up",
+    "status": "down",
     "uptime": "99.42%",
-    "uptimeDay": "97.06%",
+    "uptimeDay": "97.05%",
     "uptimeWeek": "98.40%",
     "uptimeMonth": "97.49%",
     "uptimeYear": "99.42%",
@@ -363,8 +363,7 @@
       "2021-12-07": 61,
       "2021-11-12": 17,
       "2021-11-11": 17,
-      "2021-11-05": 23,
-      "2021-10-30": 22
+      "2021-11-05": 23
     }
   },
   {
@@ -372,10 +371,10 @@
     "url": "https://evobot-1.nexter32.repl.co",
     "icon": "https://favicons.githubusercontent.com/evobot-1.nexter32.repl.co",
     "slug": "penyanyi-vf-v2",
-    "status": "up",
+    "status": "down",
     "uptime": "99.37%",
-    "uptimeDay": "97.06%",
-    "uptimeWeek": "98.67%",
+    "uptimeDay": "97.05%",
+    "uptimeWeek": "98.66%",
     "uptimeMonth": "97.44%",
     "uptimeYear": "99.37%",
     "time": 2137,
@@ -429,8 +428,7 @@
       "2022-02-21": 60,
       "2022-02-09": 17,
       "2021-12-23": 16,
-      "2021-12-07": 61,
-      "2021-11-12": 17
+      "2021-12-07": 61
     }
   },
   {
@@ -438,12 +436,12 @@
     "url": "https://MusicBot-UITM.nexter32.repl.co",
     "icon": "https://favicons.githubusercontent.com/musicbot-uitm.nexter32.repl.co",
     "slug": "music-bot-uitm",
-    "status": "up",
-    "uptime": "99.00%",
-    "uptimeDay": "94.77%",
+    "status": "down",
+    "uptime": "99.02%",
+    "uptimeDay": "94.76%",
     "uptimeWeek": "97.86%",
     "uptimeMonth": "96.83%",
-    "uptimeYear": "99.00%",
+    "uptimeYear": "99.02%",
     "time": 2608,
     "timeDay": 3848,
     "timeWeek": 3800,
@@ -490,8 +488,7 @@
       "2022-02-28": 127,
       "2022-02-26": 52,
       "2022-02-25": 30,
-      "2022-02-24": 26,
-      "2022-02-21": 60
+      "2022-02-24": 26
     }
   }
 ]
