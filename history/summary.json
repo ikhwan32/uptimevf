@@ -16,7 +16,7 @@
     "timeMonth": 874,
     "timeYear": 662,
     "dailyMinutesDown": {
-      "2022-05-22": 26,
+      "2022-05-22": 150,
       "2022-05-21": 1440,
       "2022-05-20": 1440,
       "2022-05-19": 1440,
@@ -251,9 +251,9 @@
     "url": "https://discord-musicbot.nexter32.repl.co",
     "icon": "https://favicons.githubusercontent.com/discord-musicbot.nexter32.repl.co",
     "slug": "penyanyi-vf-v3",
-    "status": "up",
+    "status": "down",
     "uptime": "98.69%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.55%",
     "uptimeYear": "98.69%",
@@ -263,6 +263,7 @@
     "timeMonth": 2519,
     "timeYear": 2275,
     "dailyMinutesDown": {
+      "2022-05-22": 0,
       "2022-05-14": 15,
       "2022-05-08": 15,
       "2022-04-30": 74,
@@ -329,9 +330,9 @@
     "url": "https://uptime-discord-bot.nexter32.repl.co",
     "icon": "https://favicons.githubusercontent.com/uptime-discord-bot.nexter32.repl.co",
     "slug": "uptime-vf-bot",
-    "status": "up",
+    "status": "down",
     "uptime": "99.46%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.51%",
     "uptimeYear": "99.46%",
@@ -341,6 +342,7 @@
     "timeMonth": 1289,
     "timeYear": 1858,
     "dailyMinutesDown": {
+      "2022-05-22": 0,
       "2022-05-14": 15,
       "2022-04-30": 42,
       "2022-04-27": 99,
@@ -387,8 +389,7 @@
       "2021-12-23": 16,
       "2021-12-07": 61,
       "2021-11-12": 17,
-      "2021-11-11": 17,
-      "2021-11-05": 23
+      "2021-11-11": 17
     }
   },
   {
@@ -396,18 +397,19 @@
     "url": "https://evobot-1.nexter32.repl.co",
     "icon": "https://favicons.githubusercontent.com/evobot-1.nexter32.repl.co",
     "slug": "penyanyi-vf-v2",
-    "status": "up",
-    "uptime": "99.41%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "99.42%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.57%",
-    "uptimeYear": "99.41%",
+    "uptimeYear": "99.42%",
     "time": 2090,
     "timeDay": 265,
     "timeWeek": 411,
     "timeMonth": 2234,
     "timeYear": 2090,
     "dailyMinutesDown": {
+      "2022-05-22": 0,
       "2022-05-14": 15,
       "2022-04-30": 43,
       "2022-04-27": 73,
@@ -453,8 +455,7 @@
       "2022-02-24": 26,
       "2022-02-21": 60,
       "2022-02-09": 17,
-      "2021-12-23": 16,
-      "2021-12-07": 61
+      "2021-12-23": 16
     }
   },
   {
@@ -462,18 +463,19 @@
     "url": "https://MusicBot-UITM.nexter32.repl.co",
     "icon": "https://favicons.githubusercontent.com/musicbot-uitm.nexter32.repl.co",
     "slug": "music-bot-uitm",
-    "status": "up",
-    "uptime": "99.07%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "99.08%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.10%",
-    "uptimeYear": "99.07%",
+    "uptimeMonth": "99.09%",
+    "uptimeYear": "99.08%",
     "time": 2563,
     "timeDay": 387,
     "timeWeek": 1107,
     "timeMonth": 2754,
     "timeYear": 2563,
     "dailyMinutesDown": {
+      "2022-05-22": 0,
       "2022-05-14": 15,
       "2022-05-12": 113,
       "2022-04-30": 76,
@@ -514,8 +516,7 @@
       "2022-03-06": 61,
       "2022-03-05": 40,
       "2022-02-28": 127,
-      "2022-02-26": 52,
-      "2022-02-25": 30
+      "2022-02-26": 52
     }
   }
 ]
