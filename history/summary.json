@@ -16,7 +16,7 @@
     "timeMonth": 2061,
     "timeYear": 879,
     "dailyMinutesDown": {
-      "2022-06-04": 28,
+      "2022-06-04": 677,
       "2022-06-03": 1440,
       "2022-06-02": 1440,
       "2022-06-01": 1440,
@@ -347,12 +347,12 @@
     "status": "up",
     "uptime": "99.46%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.35%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.61%",
     "uptimeYear": "99.46%",
     "time": 1921,
     "timeDay": 278,
-    "timeWeek": 2146,
+    "timeWeek": 265,
     "timeMonth": 2402,
     "timeYear": 1921,
     "dailyMinutesDown": {
@@ -476,18 +476,19 @@
     "url": "https://MusicBot-UITM.nexter32.repl.co",
     "icon": "https://favicons.githubusercontent.com/musicbot-uitm.nexter32.repl.co",
     "slug": "music-bot-uitm",
-    "status": "up",
-    "uptime": "99.08%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "99.09%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "98.75%",
     "uptimeMonth": "99.13%",
-    "uptimeYear": "99.08%",
-    "time": 2583,
-    "timeDay": 111,
-    "timeWeek": 1736,
-    "timeMonth": 2296,
-    "timeYear": 2583,
+    "uptimeYear": "99.09%",
+    "time": 2599,
+    "timeDay": 5478,
+    "timeWeek": 2748,
+    "timeMonth": 2478,
+    "timeYear": 2599,
     "dailyMinutesDown": {
+      "2022-06-04": 0,
       "2022-06-02": 126,
       "2022-05-23": 50,
       "2022-05-22": 79,
@@ -530,7 +531,7 @@
       "2022-03-09": 21,
       "2022-03-06": 61,
       "2022-03-05": 40,
-      "2022-02-28": 105
+      "2022-02-28": 83
     }
   }
 ]
