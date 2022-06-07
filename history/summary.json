@@ -16,7 +16,7 @@
     "timeMonth": 2490,
     "timeYear": 956,
     "dailyMinutesDown": {
-      "2022-06-07": 1297,
+      "2022-06-07": 1363,
       "2022-06-06": 1440,
       "2022-06-05": 1440,
       "2022-06-04": 1440,
@@ -267,11 +267,11 @@
     "url": "https://discord-musicbot.nexter32.repl.co",
     "icon": "https://favicons.githubusercontent.com/discord-musicbot.nexter32.repl.co",
     "slug": "penyanyi-vf-v3",
-    "status": "up",
+    "status": "down",
     "uptime": "98.80%",
-    "uptimeDay": "96.57%",
-    "uptimeWeek": "99.51%",
-    "uptimeMonth": "99.54%",
+    "uptimeDay": "97.09%",
+    "uptimeWeek": "99.58%",
+    "uptimeMonth": "99.56%",
     "uptimeYear": "98.80%",
     "time": 2449,
     "timeDay": 6378,
@@ -279,7 +279,7 @@
     "timeMonth": 3803,
     "timeYear": 2449,
     "dailyMinutesDown": {
-      "2022-06-07": 49,
+      "2022-06-07": 41,
       "2022-05-23": 45,
       "2022-05-22": 75,
       "2022-05-14": 15,
@@ -476,18 +476,18 @@
     "icon": "https://favicons.githubusercontent.com/musicbot-uitm.nexter32.repl.co",
     "slug": "music-bot-uitm",
     "status": "up",
-    "uptime": "99.11%",
-    "uptimeDay": "96.29%",
-    "uptimeWeek": "98.22%",
-    "uptimeMonth": "99.00%",
-    "uptimeYear": "99.11%",
+    "uptime": "99.10%",
+    "uptimeDay": "96.73%",
+    "uptimeWeek": "98.28%",
+    "uptimeMonth": "99.02%",
+    "uptimeYear": "99.10%",
     "time": 2631,
     "timeDay": 4501,
     "timeWeek": 3923,
     "timeMonth": 2884,
     "timeYear": 2631,
     "dailyMinutesDown": {
-      "2022-06-07": 53,
+      "2022-06-07": 47,
       "2022-06-02": 126,
       "2022-05-23": 50,
       "2022-05-22": 79,
@@ -529,7 +529,8 @@
       "2022-03-11": 17,
       "2022-03-09": 21,
       "2022-03-06": 61,
-      "2022-03-05": 40
+      "2022-03-05": 40,
+      "2022-02-28": 51
     }
   }
 ]
