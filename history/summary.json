@@ -16,7 +16,7 @@
     "timeMonth": 2401,
     "timeYear": 981,
     "dailyMinutesDown": {
-      "2022-06-09": 699,
+      "2022-06-09": 1139,
       "2022-06-08": 1440,
       "2022-06-07": 1440,
       "2022-06-06": 1440,
@@ -276,9 +276,9 @@
     "uptimeMonth": "99.24%",
     "uptimeYear": "99.24%",
     "time": 2458,
-    "timeDay": 2576,
+    "timeDay": 3371,
     "timeWeek": 5468,
-    "timeMonth": 3890,
+    "timeMonth": 3959,
     "timeYear": 2458,
     "dailyMinutesDown": {
       "2022-06-09": 111,
@@ -345,16 +345,16 @@
     "url": "https://uptime-discord-bot.nexter32.repl.co",
     "icon": "https://favicons.githubusercontent.com/uptime-discord-bot.nexter32.repl.co",
     "slug": "uptime-vf-bot",
-    "status": "up",
+    "status": "down",
     "uptime": "99.46%",
-    "uptimeDay": "95.05%",
+    "uptimeDay": "95.04%",
     "uptimeWeek": "98.70%",
     "uptimeMonth": "99.31%",
     "uptimeYear": "99.46%",
     "time": 1966,
     "timeDay": 5634,
     "timeWeek": 3759,
-    "timeMonth": 2829,
+    "timeMonth": 2880,
     "timeYear": 1966,
     "dailyMinutesDown": {
       "2022-06-09": 71,
@@ -402,8 +402,7 @@
       "2022-02-26": 50,
       "2022-02-25": 31,
       "2022-02-24": 26,
-      "2022-02-21": 60,
-      "2022-02-12": 25
+      "2022-02-21": 60
     }
   },
   {
@@ -412,18 +411,18 @@
     "icon": "https://favicons.githubusercontent.com/evobot-1.nexter32.repl.co",
     "slug": "penyanyi-vf-v2",
     "status": "up",
-    "uptime": "99.45%",
-    "uptimeDay": "97.39%",
-    "uptimeWeek": "98.44%",
-    "uptimeMonth": "99.32%",
-    "uptimeYear": "99.45%",
+    "uptime": "99.44%",
+    "uptimeDay": "97.80%",
+    "uptimeWeek": "98.50%",
+    "uptimeMonth": "99.33%",
+    "uptimeYear": "99.44%",
     "time": 2131,
-    "timeDay": 4930,
+    "timeDay": 4605,
     "timeWeek": 3093,
-    "timeMonth": 2113,
+    "timeMonth": 2147,
     "timeYear": 2131,
     "dailyMinutesDown": {
-      "2022-06-09": 38,
+      "2022-06-09": 32,
       "2022-06-07": 120,
       "2022-05-30": 23,
       "2022-05-23": 45,
@@ -467,7 +466,7 @@
       "2022-03-06": 25,
       "2022-03-05": 72,
       "2022-03-01": 24,
-      "2022-02-28": 74
+      "2022-02-28": 96
     }
   },
   {
