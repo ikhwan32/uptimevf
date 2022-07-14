@@ -16,7 +16,7 @@
     "timeMonth": 1506,
     "timeYear": 1047,
     "dailyMinutesDown": {
-      "2022-07-14": 33,
+      "2022-07-14": 1101,
       "2022-07-13": 1440,
       "2022-07-12": 1440,
       "2022-07-11": 1440,
@@ -311,7 +311,7 @@
     "uptimeMonth": "99.52%",
     "uptimeYear": "99.29%",
     "time": 2466,
-    "timeDay": 3375,
+    "timeDay": 243,
     "timeWeek": 2525,
     "timeMonth": 2094,
     "timeYear": 2466,
@@ -384,12 +384,12 @@
     "uptime": "99.50%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.78%",
-    "uptimeMonth": "99.29%",
+    "uptimeMonth": "99.41%",
     "uptimeYear": "99.46%",
     "time": 1992,
-    "timeDay": 3406,
+    "timeDay": 249,
     "timeWeek": 1109,
-    "timeMonth": 2473,
+    "timeMonth": 2374,
     "timeYear": 2088,
     "dailyMinutesDown": {
       "2022-07-09": 22,
@@ -455,9 +455,9 @@
     "uptimeMonth": "98.84%",
     "uptimeYear": "98.93%",
     "time": 2207,
-    "timeDay": 3324,
+    "timeDay": 265,
     "timeWeek": 1365,
-    "timeMonth": 2787,
+    "timeMonth": 2670,
     "timeYear": 2285,
     "dailyMinutesDown": {
       "2022-07-09": 22,
@@ -516,9 +516,9 @@
     "url": "https://MusicBot-UITM.nexter32.repl.co",
     "icon": "https://favicons.githubusercontent.com/musicbot-uitm.nexter32.repl.co",
     "slug": "music-bot-uitm",
-    "status": "up",
+    "status": "down",
     "uptime": "99.17%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.84%",
     "uptimeYear": "99.17%",
@@ -528,6 +528,7 @@
     "timeMonth": 1090,
     "timeYear": 2533,
     "dailyMinutesDown": {
+      "2022-07-14": 0,
       "2022-07-01": 16,
       "2022-06-21": 52,
       "2022-06-13": 68,
@@ -573,7 +574,7 @@
       "2022-03-15": 19,
       "2022-03-14": 30,
       "2022-03-13": 23,
-      "2022-03-12": 53
+      "2022-03-12": 35
     }
   }
 ]
