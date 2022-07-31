@@ -16,7 +16,7 @@
     "timeMonth": 2340,
     "timeYear": 1190,
     "dailyMinutesDown": {
-      "2022-07-31": 1147,
+      "2022-07-31": 1305,
       "2022-07-30": 1440,
       "2022-07-29": 1440,
       "2022-07-28": 1440,
@@ -323,9 +323,9 @@
     "slug": "penyanyi-vf-v3",
     "status": "up",
     "uptime": "99.35%",
-    "uptimeDay": "97.98%",
-    "uptimeWeek": "99.71%",
-    "uptimeMonth": "99.69%",
+    "uptimeDay": "98.72%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.71%",
     "uptimeYear": "99.35%",
     "time": 2438,
     "timeDay": 2055,
@@ -333,7 +333,7 @@
     "timeMonth": 1853,
     "timeYear": 2438,
     "dailyMinutesDown": {
-      "2022-07-31": 30,
+      "2022-07-31": 19,
       "2022-07-24": 32,
       "2022-07-18": 31,
       "2022-07-15": 24,
@@ -386,7 +386,8 @@
       "2022-03-06": 45,
       "2022-03-05": 62,
       "2022-03-01": 24,
-      "2022-02-28": 55
+      "2022-02-28": 55,
+      "2022-02-26": 21
     }
   },
   {
@@ -532,9 +533,9 @@
     "url": "https://MusicBot-UITM.nexter32.repl.co",
     "icon": "https://favicons.githubusercontent.com/musicbot-uitm.nexter32.repl.co",
     "slug": "music-bot-uitm",
-    "status": "up",
+    "status": "down",
     "uptime": "99.19%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "99.58%",
     "uptimeMonth": "99.40%",
     "uptimeYear": "99.19%",
@@ -544,6 +545,7 @@
     "timeMonth": 1926,
     "timeYear": 2537,
     "dailyMinutesDown": {
+      "2022-07-31": 0,
       "2022-07-30": 43,
       "2022-07-23": 29,
       "2022-07-18": 26,
@@ -591,7 +593,7 @@
       "2022-03-22": 123,
       "2022-03-20": 58,
       "2022-03-18": 54,
-      "2022-03-17": 55
+      "2022-03-17": 22
     }
   }
 ]
