@@ -1,7 +1,7 @@
 url: https://uptime-discord-bot.nexter32.repl.co
-status: up
-code: 200
-responseTime: 264
-lastUpdated: 2022-08-03T23:13:41.241Z
+status: down
+code: 429
+responseTime: 6288
+lastUpdated: 2022-08-04T15:41:22.357Z
 startTime: Fri Jun 11 2021 07:28:12 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
