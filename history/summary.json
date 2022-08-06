@@ -16,7 +16,7 @@
     "timeMonth": 1834,
     "timeYear": 1163,
     "dailyMinutesDown": {
-      "2022-08-06": 28,
+      "2022-08-06": 747,
       "2022-08-05": 1440,
       "2022-08-04": 1440,
       "2022-08-03": 1440,
@@ -329,12 +329,12 @@
     "slug": "penyanyi-vf-v3",
     "status": "up",
     "uptime": "99.36%",
-    "uptimeDay": "97.14%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.17%",
     "uptimeMonth": "99.56%",
     "uptimeYear": "99.36%",
     "time": 2456,
-    "timeDay": 5970,
+    "timeDay": 297,
     "timeWeek": 3184,
     "timeMonth": 2282,
     "timeYear": 2456,
@@ -401,9 +401,9 @@
     "url": "https://uptime-discord-bot.nexter32.repl.co",
     "icon": "https://favicons.githubusercontent.com/uptime-discord-bot.nexter32.repl.co",
     "slug": "uptime-vf-bot",
-    "status": "up",
+    "status": "down",
     "uptime": "99.50%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "98.07%",
     "uptimeMonth": "99.16%",
     "uptimeYear": "99.42%",
@@ -413,6 +413,7 @@
     "timeMonth": 1935,
     "timeYear": 2116,
     "dailyMinutesDown": {
+      "2022-08-06": 0,
       "2022-08-02": 87,
       "2022-08-01": 107,
       "2022-07-24": 28,
@@ -461,8 +462,7 @@
       "2022-03-19": 37,
       "2022-03-18": 20,
       "2022-03-17": 38,
-      "2022-03-13": 16,
-      "2022-03-12": 16
+      "2022-03-13": 16
     }
   },
   {
