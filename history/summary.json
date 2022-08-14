@@ -16,7 +16,7 @@
     "timeMonth": 2490,
     "timeYear": 1245,
     "dailyMinutesDown": {
-      "2022-08-14": 1199,
+      "2022-08-14": 1372,
       "2022-08-13": 1440,
       "2022-08-12": 1440,
       "2022-08-11": 1440,
@@ -338,12 +338,12 @@
     "status": "up",
     "uptime": "99.27%",
     "uptimeDay": "98.80%",
-    "uptimeWeek": "92.65%",
+    "uptimeWeek": "92.82%",
     "uptimeMonth": "97.92%",
     "uptimeYear": "99.27%",
     "time": 2482,
     "timeDay": 10485,
-    "timeWeek": 3678,
+    "timeWeek": 3907,
     "timeMonth": 2655,
     "timeYear": 2482,
     "dailyMinutesDown": {
@@ -410,7 +410,7 @@
     "icon": "https://favicons.githubusercontent.com/uptime-discord-bot.nexter32.repl.co",
     "slug": "uptime-vf-bot",
     "status": "up",
-    "uptime": "99.47%",
+    "uptime": "99.48%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "97.61%",
     "uptimeMonth": "98.63%",
@@ -481,9 +481,9 @@
     "slug": "penyanyi-vf-v2",
     "status": "up",
     "uptime": "99.04%",
-    "uptimeDay": "99.07%",
-    "uptimeWeek": "99.43%",
-    "uptimeMonth": "98.69%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.56%",
+    "uptimeMonth": "98.72%",
     "uptimeYear": "98.87%",
     "time": 2344,
     "timeDay": 12407,
@@ -491,7 +491,6 @@
     "timeMonth": 4065,
     "timeYear": 2493,
     "dailyMinutesDown": {
-      "2022-08-14": 13,
       "2022-08-12": 24,
       "2022-08-10": 20,
       "2022-08-07": 24,
@@ -541,7 +540,8 @@
       "2022-03-27": 95,
       "2022-03-26": 17,
       "2022-03-24": 24,
-      "2022-03-22": 127
+      "2022-03-22": 127,
+      "2022-03-20": 18
     }
   },
   {
@@ -549,19 +549,19 @@
     "url": "https://MusicBot-UITM.nexter32.repl.co",
     "icon": "https://favicons.githubusercontent.com/musicbot-uitm.nexter32.repl.co",
     "slug": "music-bot-uitm",
-    "status": "up",
-    "uptime": "98.95%",
-    "uptimeDay": "94.64%",
-    "uptimeWeek": "98.74%",
+    "status": "down",
+    "uptime": "98.96%",
+    "uptimeDay": "94.60%",
+    "uptimeWeek": "98.73%",
     "uptimeMonth": "96.29%",
-    "uptimeYear": "98.95%",
+    "uptimeYear": "98.96%",
     "time": 2620,
     "timeDay": 3662,
     "timeWeek": 1811,
     "timeMonth": 3690,
     "timeYear": 2620,
     "dailyMinutesDown": {
-      "2022-08-14": 77,
+      "2022-08-14": 78,
       "2022-08-12": 28,
       "2022-08-10": 22,
       "2022-08-02": 42,
@@ -611,8 +611,7 @@
       "2022-03-27": 112,
       "2022-03-26": 143,
       "2022-03-24": 30,
-      "2022-03-22": 123,
-      "2022-03-20": 20
+      "2022-03-22": 123
     }
   }
 ]
