@@ -16,7 +16,7 @@
     "timeMonth": 2444,
     "timeYear": 1284,
     "dailyMinutesDown": {
-      "2022-08-20": 1129,
+      "2022-08-20": 1167,
       "2022-08-19": 1440,
       "2022-08-18": 1440,
       "2022-08-17": 1440,
@@ -341,11 +341,11 @@
     "url": "https://discord-musicbot.nexter32.repl.co",
     "icon": "https://favicons.githubusercontent.com/discord-musicbot.nexter32.repl.co",
     "slug": "penyanyi-vf-v3",
-    "status": "up",
+    "status": "down",
     "uptime": "99.28%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.75%",
-    "uptimeMonth": "97.80%",
+    "uptimeDay": "99.78%",
+    "uptimeWeek": "98.72%",
+    "uptimeMonth": "97.79%",
     "uptimeYear": "99.28%",
     "time": 2468,
     "timeDay": 17297,
@@ -353,6 +353,7 @@
     "timeMonth": 2705,
     "timeYear": 2468,
     "dailyMinutesDown": {
+      "2022-08-20": 3,
       "2022-08-18": 93,
       "2022-08-15": 16,
       "2022-08-14": 17,
@@ -405,8 +406,7 @@
       "2022-03-20": 55,
       "2022-03-18": 38,
       "2022-03-17": 22,
-      "2022-03-14": 20,
-      "2022-03-13": 16
+      "2022-03-14": 20
     }
   },
   {
@@ -414,19 +414,19 @@
     "url": "https://uptime-discord-bot.nexter32.repl.co",
     "icon": "https://favicons.githubusercontent.com/uptime-discord-bot.nexter32.repl.co",
     "slug": "uptime-vf-bot",
-    "status": "up",
-    "uptime": "99.44%",
-    "uptimeDay": "84.01%",
-    "uptimeWeek": "94.87%",
+    "status": "down",
+    "uptime": "99.45%",
+    "uptimeDay": "83.89%",
+    "uptimeWeek": "94.85%",
     "uptimeMonth": "97.69%",
-    "uptimeYear": "99.33%",
+    "uptimeYear": "99.34%",
     "time": 2026,
     "timeDay": 2766,
     "timeWeek": 2340,
     "timeMonth": 2347,
     "timeYear": 2166,
     "dailyMinutesDown": {
-      "2022-08-20": 150,
+      "2022-08-20": 152,
       "2022-08-19": 80,
       "2022-08-18": 137,
       "2022-08-17": 107,
@@ -476,8 +476,7 @@
       "2022-03-29": 147,
       "2022-03-28": 200,
       "2022-03-27": 135,
-      "2022-03-26": 18,
-      "2022-03-24": 30
+      "2022-03-26": 18
     }
   },
   {
@@ -485,9 +484,9 @@
     "url": "https://evobot-1.nexter32.repl.co",
     "icon": "https://favicons.githubusercontent.com/evobot-1.nexter32.repl.co",
     "slug": "penyanyi-vf-v2",
-    "status": "up",
+    "status": "down",
     "uptime": "99.03%",
-    "uptimeDay": "94.54%",
+    "uptimeDay": "94.52%",
     "uptimeWeek": "96.65%",
     "uptimeMonth": "98.43%",
     "uptimeYear": "98.84%",
@@ -547,8 +546,7 @@
       "2022-03-30": 205,
       "2022-03-29": 200,
       "2022-03-28": 268,
-      "2022-03-27": 95,
-      "2022-03-26": 17
+      "2022-03-27": 95
     }
   },
   {
