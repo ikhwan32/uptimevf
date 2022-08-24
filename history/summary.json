@@ -16,7 +16,7 @@
     "timeMonth": 2646,
     "timeYear": 1309,
     "dailyMinutesDown": {
-      "2022-08-24": 1081,
+      "2022-08-24": 1362,
       "2022-08-23": 1440,
       "2022-08-22": 1440,
       "2022-08-21": 1440,
@@ -352,8 +352,8 @@
     "uptimeMonth": "97.57%",
     "uptimeYear": "99.28%",
     "time": 2462,
-    "timeDay": 3704,
-    "timeWeek": 2579,
+    "timeDay": 5430,
+    "timeWeek": 2802,
     "timeMonth": 2539,
     "timeYear": 2462,
     "dailyMinutesDown": {
@@ -419,17 +419,16 @@
     "slug": "uptime-vf-bot",
     "status": "up",
     "uptime": "99.42%",
-    "uptimeDay": "99.53%",
-    "uptimeWeek": "94.48%",
-    "uptimeMonth": "97.33%",
-    "uptimeYear": "99.31%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "94.55%",
+    "uptimeMonth": "97.34%",
+    "uptimeYear": "99.30%",
     "time": 2035,
     "timeDay": 5156,
-    "timeWeek": 2424,
+    "timeWeek": 2183,
     "timeMonth": 2429,
     "timeYear": 2173,
     "dailyMinutesDown": {
-      "2022-08-24": 7,
       "2022-08-20": 332,
       "2022-08-19": 80,
       "2022-08-18": 137,
@@ -479,7 +478,8 @@
       "2022-03-30": 145,
       "2022-03-29": 147,
       "2022-03-28": 200,
-      "2022-03-27": 135
+      "2022-03-27": 135,
+      "2022-03-26": 18
     }
   },
   {
@@ -495,7 +495,7 @@
     "uptimeYear": "98.71%",
     "time": 2399,
     "timeDay": 345,
-    "timeWeek": 3542,
+    "timeWeek": 3859,
     "timeMonth": 4059,
     "timeYear": 2563,
     "dailyMinutesDown": {
@@ -561,18 +561,19 @@
     "url": "https://MusicBot-UITM.nexter32.repl.co",
     "icon": "https://favicons.githubusercontent.com/musicbot-uitm.nexter32.repl.co",
     "slug": "music-bot-uitm",
-    "status": "up",
+    "status": "down",
     "uptime": "98.96%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "97.94%",
+    "uptimeDay": "99.97%",
+    "uptimeWeek": "97.93%",
     "uptimeMonth": "95.72%",
     "uptimeYear": "98.96%",
     "time": 2686,
     "timeDay": 4097,
-    "timeWeek": 1882,
+    "timeWeek": 2101,
     "timeMonth": 3977,
     "timeYear": 2686,
     "dailyMinutesDown": {
+      "2022-08-24": 0,
       "2022-08-22": 80,
       "2022-08-19": 26,
       "2022-08-18": 102,
@@ -625,7 +626,7 @@
       "2022-03-30": 357,
       "2022-03-29": 208,
       "2022-03-28": 54,
-      "2022-03-27": 112
+      "2022-03-27": 91
     }
   }
 ]
