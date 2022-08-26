@@ -16,7 +16,7 @@
     "timeMonth": 2820,
     "timeYear": 1323,
     "dailyMinutesDown": {
-      "2022-08-26": 32,
+      "2022-08-26": 739,
       "2022-08-25": 1440,
       "2022-08-24": 1440,
       "2022-08-23": 1440,
@@ -420,9 +420,9 @@
     "url": "https://uptime-discord-bot.nexter32.repl.co",
     "icon": "https://favicons.githubusercontent.com/uptime-discord-bot.nexter32.repl.co",
     "slug": "uptime-vf-bot",
-    "status": "up",
+    "status": "down",
     "uptime": "99.43%",
-    "uptimeDay": "97.12%",
+    "uptimeDay": "97.11%",
     "uptimeWeek": "95.50%",
     "uptimeMonth": "97.25%",
     "uptimeYear": "99.31%",
@@ -432,6 +432,7 @@
     "timeMonth": 2526,
     "timeYear": 2184,
     "dailyMinutesDown": {
+      "2022-08-26": 0,
       "2022-08-25": 41,
       "2022-08-20": 332,
       "2022-08-19": 80,
@@ -482,7 +483,7 @@
       "2022-03-30": 145,
       "2022-03-29": 147,
       "2022-03-28": 200,
-      "2022-03-27": 102
+      "2022-03-27": 85
     }
   },
   {
@@ -498,7 +499,7 @@
     "uptimeYear": "98.71%",
     "time": 2445,
     "timeDay": 5683,
-    "timeWeek": 6404,
+    "timeWeek": 6353,
     "timeMonth": 4515,
     "timeYear": 2619,
     "dailyMinutesDown": {
