@@ -16,7 +16,7 @@
     "timeMonth": 2383,
     "timeYear": 1320,
     "dailyMinutesDown": {
-      "2022-09-05": 858,
+      "2022-09-05": 1258,
       "2022-09-04": 1440,
       "2022-09-03": 1440,
       "2022-09-02": 1440,
@@ -360,12 +360,12 @@
     "status": "up",
     "uptime": "98.91%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "77.16%",
+    "uptimeWeek": "77.34%",
     "uptimeMonth": "92.32%",
     "uptimeYear": "98.90%",
     "time": 2488,
     "timeDay": 1171,
-    "timeWeek": 3861,
+    "timeWeek": 3914,
     "timeMonth": 2740,
     "timeYear": 2501,
     "dailyMinutesDown": {
@@ -435,18 +435,18 @@
     "icon": "https://favicons.githubusercontent.com/uptime-discord-bot.nexter32.repl.co",
     "slug": "uptime-vf-bot",
     "status": "down",
-    "uptime": "98.99%",
+    "uptime": "98.93%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "69.17%",
-    "uptimeMonth": "90.16%",
-    "uptimeYear": "98.75%",
+    "uptimeWeek": "65.21%",
+    "uptimeMonth": "89.25%",
+    "uptimeYear": "98.67%",
     "time": 2161,
     "timeDay": 0,
     "timeWeek": 5715,
     "timeMonth": 3565,
     "timeYear": 2346,
     "dailyMinutesDown": {
-      "2022-09-05": 858,
+      "2022-09-05": 1258,
       "2022-09-04": 1440,
       "2022-09-03": 452,
       "2022-09-02": 24,
@@ -591,10 +591,10 @@
     "url": "https://MusicBot-UITM.nexter32.repl.co",
     "icon": "https://favicons.githubusercontent.com/musicbot-uitm.nexter32.repl.co",
     "slug": "music-bot-uitm",
-    "status": "up",
+    "status": "down",
     "uptime": "98.72%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "88.62%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "88.61%",
     "uptimeMonth": "94.99%",
     "uptimeYear": "98.72%",
     "time": 2793,
@@ -603,6 +603,7 @@
     "timeMonth": 4086,
     "timeYear": 2793,
     "dailyMinutesDown": {
+      "2022-09-05": 0,
       "2022-09-04": 36,
       "2022-09-03": 73,
       "2022-09-02": 807,
@@ -663,7 +664,7 @@
       "2022-04-01": 224,
       "2022-03-31": 201,
       "2022-03-30": 357,
-      "2022-03-29": 106
+      "2022-03-29": 69
     }
   }
 ]
