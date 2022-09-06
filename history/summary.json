@@ -16,7 +16,7 @@
     "timeMonth": 2390,
     "timeYear": 1316,
     "dailyMinutesDown": {
-      "2022-09-06": 551,
+      "2022-09-06": 740,
       "2022-09-05": 1440,
       "2022-09-04": 1440,
       "2022-09-03": 1440,
@@ -358,11 +358,11 @@
     "url": "https://discord-musicbot.nexter32.repl.co",
     "icon": "https://favicons.githubusercontent.com/discord-musicbot.nexter32.repl.co",
     "slug": "penyanyi-vf-v3",
-    "status": "up",
-    "uptime": "98.91%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "77.34%",
-    "uptimeMonth": "92.32%",
+    "status": "down",
+    "uptime": "98.92%",
+    "uptimeDay": "99.85%",
+    "uptimeWeek": "77.31%",
+    "uptimeMonth": "92.31%",
     "uptimeYear": "98.90%",
     "time": 2486,
     "timeDay": 532,
@@ -370,6 +370,7 @@
     "timeMonth": 2743,
     "timeYear": 2500,
     "dailyMinutesDown": {
+      "2022-09-06": 2,
       "2022-09-04": 50,
       "2022-09-03": 285,
       "2022-09-02": 87,
@@ -426,8 +427,7 @@
       "2022-03-31": 147,
       "2022-03-30": 147,
       "2022-03-29": 245,
-      "2022-03-28": 126,
-      "2022-03-27": 18
+      "2022-03-28": 126
     }
   },
   {
@@ -436,18 +436,18 @@
     "icon": "https://favicons.githubusercontent.com/uptime-discord-bot.nexter32.repl.co",
     "slug": "uptime-vf-bot",
     "status": "down",
-    "uptime": "98.82%",
+    "uptime": "98.79%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "57.93%",
-    "uptimeMonth": "87.57%",
-    "uptimeYear": "98.53%",
+    "uptimeWeek": "56.06%",
+    "uptimeMonth": "87.14%",
+    "uptimeYear": "98.50%",
     "time": 2161,
     "timeDay": 0,
     "timeWeek": 6043,
     "timeMonth": 3608,
     "timeYear": 2348,
     "dailyMinutesDown": {
-      "2022-09-06": 551,
+      "2022-09-06": 740,
       "2022-09-05": 1440,
       "2022-09-04": 1440,
       "2022-09-03": 452,
@@ -596,9 +596,9 @@
     "slug": "music-bot-uitm",
     "status": "up",
     "uptime": "98.72%",
-    "uptimeDay": "97.00%",
-    "uptimeWeek": "88.19%",
-    "uptimeMonth": "94.89%",
+    "uptimeDay": "97.92%",
+    "uptimeWeek": "88.32%",
+    "uptimeMonth": "94.92%",
     "uptimeYear": "98.72%",
     "time": 2791,
     "timeDay": 2452,
@@ -606,7 +606,6 @@
     "timeMonth": 4072,
     "timeYear": 2791,
     "dailyMinutesDown": {
-      "2022-09-06": 13,
       "2022-09-05": 30,
       "2022-09-04": 36,
       "2022-09-03": 73,
@@ -668,7 +667,7 @@
       "2022-04-01": 224,
       "2022-03-31": 201,
       "2022-03-30": 357,
-      "2022-03-29": 42
+      "2022-03-29": 69
     }
   }
 ]
