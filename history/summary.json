@@ -16,7 +16,7 @@
     "timeMonth": 2820,
     "timeYear": 1466,
     "dailyMinutesDown": {
-      "2022-11-09": 31,
+      "2022-11-09": 839,
       "2022-11-08": 1440,
       "2022-11-07": 1440,
       "2022-11-06": 1440,
@@ -398,7 +398,7 @@
     "timeDay": 478,
     "timeWeek": 355,
     "timeMonth": 2233,
-    "timeYear": 2793,
+    "timeYear": 2797,
     "dailyMinutesDown": {
       "2022-11-05": 22,
       "2022-10-31": 20,
@@ -486,7 +486,7 @@
     "timeDay": 450,
     "timeWeek": 2585,
     "timeMonth": 2858,
-    "timeYear": 2699,
+    "timeYear": 2702,
     "dailyMinutesDown": {
       "2022-11-05": 22,
       "2022-10-31": 20,
@@ -574,7 +574,7 @@
     "timeDay": 353,
     "timeWeek": 8834,
     "timeMonth": 3500,
-    "timeYear": 3157,
+    "timeYear": 3161,
     "dailyMinutesDown": {
       "2022-11-05": 22,
       "2022-10-31": 20,
@@ -654,18 +654,19 @@
     "url": "https://MusicBot-UITM.nexter32.repl.co",
     "icon": "https://icons.duckduckgo.com/ip3/musicbot-uitm.nexter32.repl.co.ico",
     "slug": "music-bot-uitm",
-    "status": "up",
-    "uptime": "98.81%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.78%",
+    "status": "down",
+    "uptime": "98.82%",
+    "uptimeDay": "99.97%",
+    "uptimeWeek": "99.77%",
     "uptimeMonth": "99.78%",
     "uptimeYear": "98.68%",
     "time": 2979,
     "timeDay": 287,
     "timeWeek": 2080,
     "timeMonth": 5004,
-    "timeYear": 3114,
+    "timeYear": 3117,
     "dailyMinutesDown": {
+      "2022-11-09": 0,
       "2022-11-05": 22,
       "2022-11-01": 20,
       "2022-10-31": 20,
@@ -737,7 +738,7 @@
       "2022-04-06": 48,
       "2022-04-05": 156,
       "2022-04-02": 33,
-      "2022-04-01": 97
+      "2022-04-01": 72
     }
   }
 ]
