@@ -16,7 +16,7 @@
     "timeMonth": 3222,
     "timeYear": 1514,
     "dailyMinutesDown": {
-      "2022-11-17": 1102,
+      "2022-11-17": 1140,
       "2022-11-16": 1440,
       "2022-11-15": 1440,
       "2022-11-14": 1440,
@@ -479,9 +479,9 @@
     "slug": "uptime-vf-bot",
     "status": "down",
     "uptime": "98.79%",
-    "uptimeDay": "95.19%",
-    "uptimeWeek": "99.31%",
-    "uptimeMonth": "99.70%",
+    "uptimeDay": "92.54%",
+    "uptimeWeek": "98.93%",
+    "uptimeMonth": "99.62%",
     "uptimeYear": "98.26%",
     "time": 2554,
     "timeDay": 14247,
@@ -489,7 +489,7 @@
     "timeMonth": 3382,
     "timeYear": 2766,
     "dailyMinutesDown": {
-      "2022-11-17": 70,
+      "2022-11-17": 108,
       "2022-11-05": 22,
       "2022-10-31": 20,
       "2022-10-23": 19,
@@ -565,18 +565,19 @@
     "url": "https://evobot-1.nexter32.repl.co",
     "icon": "https://icons.duckduckgo.com/ip3/evobot-1.nexter32.repl.co.ico",
     "slug": "penyanyi-vf-v2",
-    "status": "up",
+    "status": "down",
     "uptime": "98.63%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.87%",
     "uptimeYear": "98.03%",
-    "time": 2834,
+    "time": 2836,
     "timeDay": 661,
     "timeWeek": 535,
     "timeMonth": 2794,
     "timeYear": 3162,
     "dailyMinutesDown": {
+      "2022-11-17": 0,
       "2022-11-05": 22,
       "2022-10-31": 20,
       "2022-10-22": 16,
@@ -646,8 +647,7 @@
       "2022-04-08": 30,
       "2022-04-05": 81,
       "2022-04-02": 33,
-      "2022-04-01": 181,
-      "2022-03-31": 21
+      "2022-04-01": 181
     }
   },
   {
