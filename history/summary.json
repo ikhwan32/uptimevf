@@ -16,7 +16,7 @@
     "timeMonth": 3298,
     "timeYear": 1540,
     "dailyMinutesDown": {
-      "2022-11-21": 1268,
+      "2022-11-21": 1287,
       "2022-11-20": 1440,
       "2022-11-19": 1440,
       "2022-11-18": 1440,
@@ -477,19 +477,19 @@
     "url": "https://uptime-discord-bot.nexter32.repl.co",
     "icon": "https://icons.duckduckgo.com/ip3/uptime-discord-bot.nexter32.repl.co.ico",
     "slug": "uptime-vf-bot",
-    "status": "down",
+    "status": "up",
     "uptime": "98.79%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "98.18%",
-    "uptimeMonth": "99.44%",
+    "uptimeDay": "98.70%",
+    "uptimeWeek": "98.00%",
+    "uptimeMonth": "99.40%",
     "uptimeYear": "98.25%",
-    "time": 2608,
-    "timeDay": 327,
-    "timeWeek": 7144,
-    "timeMonth": 4363,
-    "timeYear": 2826,
+    "time": 2625,
+    "timeDay": 6968,
+    "timeWeek": 7641,
+    "timeMonth": 4589,
+    "timeYear": 2841,
     "dailyMinutesDown": {
-      "2022-11-21": 0,
+      "2022-11-21": 19,
       "2022-11-17": 183,
       "2022-11-05": 22,
       "2022-10-31": 20,
@@ -658,9 +658,9 @@
     "slug": "music-bot-uitm",
     "status": "up",
     "uptime": "98.85%",
-    "uptimeDay": "99.12%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.71%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.74%",
     "uptimeYear": "98.68%",
     "time": 2964,
     "timeDay": 422,
@@ -668,7 +668,6 @@
     "timeMonth": 4105,
     "timeYear": 3148,
     "dailyMinutesDown": {
-      "2022-11-21": 13,
       "2022-11-09": 17,
       "2022-11-05": 22,
       "2022-11-01": 20,
@@ -741,7 +740,7 @@
       "2022-04-06": 48,
       "2022-04-05": 156,
       "2022-04-02": 33,
-      "2022-04-01": 44
+      "2022-04-01": 72
     }
   }
 ]
