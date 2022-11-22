@@ -16,7 +16,7 @@
     "timeMonth": 3301,
     "timeYear": 1540,
     "dailyMinutesDown": {
-      "2022-11-22": 478,
+      "2022-11-22": 944,
       "2022-11-21": 1440,
       "2022-11-20": 1440,
       "2022-11-19": 1440,
@@ -389,18 +389,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/discord-musicbot.nexter32.repl.co.ico",
     "slug": "penyanyi-vf-v3",
     "status": "up",
-    "uptime": "98.77%",
-    "uptimeDay": "99.54%",
-    "uptimeWeek": "98.38%",
-    "uptimeMonth": "99.50%",
-    "uptimeYear": "98.50%",
+    "uptime": "98.76%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "98.45%",
+    "uptimeMonth": "99.51%",
+    "uptimeYear": "98.49%",
     "time": 2570,
     "timeDay": 571,
     "timeWeek": 2037,
     "timeMonth": 1523,
     "timeYear": 2816,
     "dailyMinutesDown": {
-      "2022-11-22": 7,
       "2022-11-17": 156,
       "2022-11-05": 22,
       "2022-10-31": 20,
@@ -469,7 +468,8 @@
       "2022-04-09": 21,
       "2022-04-08": 30,
       "2022-04-05": 41,
-      "2022-04-02": 16
+      "2022-04-02": 16,
+      "2022-04-01": 41
     }
   },
   {
@@ -570,12 +570,12 @@
     "uptime": "98.63%",
     "uptimeDay": "98.48%",
     "uptimeWeek": "98.94%",
-    "uptimeMonth": "99.62%",
+    "uptimeMonth": "99.66%",
     "uptimeYear": "98.02%",
     "time": 2843,
     "timeDay": 414,
     "timeWeek": 2171,
-    "timeMonth": 2772,
+    "timeMonth": 2819,
     "timeYear": 3174,
     "dailyMinutesDown": {
       "2022-11-22": 22,
@@ -657,9 +657,9 @@
     "url": "https://MusicBot-UITM.nexter32.repl.co",
     "icon": "https://icons.duckduckgo.com/ip3/musicbot-uitm.nexter32.repl.co.ico",
     "slug": "music-bot-uitm",
-    "status": "up",
-    "uptime": "98.85%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "98.86%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.74%",
     "uptimeYear": "98.68%",
@@ -669,6 +669,7 @@
     "timeMonth": 3886,
     "timeYear": 3160,
     "dailyMinutesDown": {
+      "2022-11-22": 0,
       "2022-11-09": 17,
       "2022-11-05": 22,
       "2022-11-01": 20,
@@ -741,7 +742,7 @@
       "2022-04-06": 48,
       "2022-04-05": 156,
       "2022-04-02": 33,
-      "2022-04-01": 72
+      "2022-04-01": 44
     }
   }
 ]
