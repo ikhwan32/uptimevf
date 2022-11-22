@@ -1,7 +1,7 @@
 url: https://evobot-1.nexter32.repl.co
-status: up
-code: 200
-responseTime: 501
-lastUpdated: 2022-11-22T07:43:51.753Z
+status: down
+code: 429
+responseTime: 9478
+lastUpdated: 2022-11-22T21:47:33.614Z
 startTime: Fri Jun 11 2021 07:28:11 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
