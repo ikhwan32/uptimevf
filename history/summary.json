@@ -16,7 +16,7 @@
     "timeMonth": 2968,
     "timeYear": 1620,
     "dailyMinutesDown": {
-      "2022-12-03": 24,
+      "2022-12-03": 116,
       "2022-12-02": 1440,
       "2022-12-01": 1440,
       "2022-11-30": 1440,
@@ -390,7 +390,7 @@
     "slug": "penyanyi-vf-v3",
     "status": "up",
     "uptime": "98.79%",
-    "uptimeDay": "94.43%",
+    "uptimeDay": "97.59%",
     "uptimeWeek": "99.20%",
     "uptimeMonth": "99.41%",
     "uptimeYear": "98.48%",
@@ -569,8 +569,8 @@
     "slug": "penyanyi-vf-v2",
     "status": "up",
     "uptime": "98.65%",
-    "uptimeDay": "94.46%",
-    "uptimeWeek": "98.19%",
+    "uptimeDay": "97.59%",
+    "uptimeWeek": "98.66%",
     "uptimeMonth": "99.29%",
     "uptimeYear": "98.01%",
     "time": 2879,
@@ -661,9 +661,9 @@
     "url": "https://MusicBot-UITM.nexter32.repl.co",
     "icon": "https://icons.duckduckgo.com/ip3/musicbot-uitm.nexter32.repl.co.ico",
     "slug": "music-bot-uitm",
-    "status": "up",
+    "status": "down",
     "uptime": "98.88%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "99.40%",
     "uptimeMonth": "99.77%",
     "uptimeYear": "98.68%",
@@ -673,6 +673,7 @@
     "timeMonth": 1891,
     "timeYear": 3146,
     "dailyMinutesDown": {
+      "2022-12-03": 0,
       "2022-11-30": 17,
       "2022-11-27": 43,
       "2022-11-09": 17,
@@ -746,8 +747,7 @@
       "2022-04-08": 30,
       "2022-04-06": 48,
       "2022-04-05": 156,
-      "2022-04-02": 33,
-      "2022-04-01": 18
+      "2022-04-02": 33
     }
   }
 ]
