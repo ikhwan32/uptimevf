@@ -16,7 +16,7 @@
     "timeMonth": 2968,
     "timeYear": 1620,
     "dailyMinutesDown": {
-      "2022-12-03": 152,
+      "2022-12-03": 218,
       "2022-12-02": 1440,
       "2022-12-01": 1440,
       "2022-11-30": 1440,
@@ -570,12 +570,12 @@
     "status": "up",
     "uptime": "98.65%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.01%",
+    "uptimeWeek": "99.04%",
     "uptimeMonth": "99.29%",
     "uptimeYear": "98.01%",
     "time": 2879,
     "timeDay": 232,
-    "timeWeek": 1717,
+    "timeWeek": 800,
     "timeMonth": 2905,
     "timeYear": 3183,
     "dailyMinutesDown": {
@@ -661,12 +661,12 @@
     "url": "https://MusicBot-UITM.nexter32.repl.co",
     "icon": "https://icons.duckduckgo.com/ip3/musicbot-uitm.nexter32.repl.co.ico",
     "slug": "music-bot-uitm",
-    "status": "up",
+    "status": "down",
     "uptime": "98.88%",
-    "uptimeDay": "97.50%",
-    "uptimeWeek": "99.05%",
+    "uptimeDay": "97.47%",
+    "uptimeWeek": "99.04%",
     "uptimeMonth": "99.69%",
-    "uptimeYear": "98.67%",
+    "uptimeYear": "98.68%",
     "time": 2924,
     "timeDay": 265,
     "timeWeek": 355,
@@ -747,7 +747,7 @@
       "2022-04-08": 30,
       "2022-04-06": 48,
       "2022-04-05": 156,
-      "2022-04-02": 33
+      "2022-04-02": 16
     }
   }
 ]
