@@ -10,13 +10,14 @@
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 1696,
-    "timeDay": 5105,
-    "timeWeek": 5507,
-    "timeMonth": 3619,
-    "timeYear": 1713,
+    "time": 1706,
+    "timeDay": 5195,
+    "timeWeek": 4816,
+    "timeMonth": 3622,
+    "timeYear": 1724,
     "dailyMinutesDown": {
-      "2022-12-10": 1270,
+      "2022-12-11": 30,
+      "2022-12-10": 1440,
       "2022-12-09": 1440,
       "2022-12-08": 1440,
       "2022-12-07": 1440,
@@ -379,8 +380,7 @@
       "2021-12-15": 1440,
       "2021-12-14": 1440,
       "2021-12-13": 1440,
-      "2021-12-12": 1440,
-      "2021-12-11": 1440
+      "2021-12-12": 1440
     }
   },
   {
@@ -395,10 +395,10 @@
     "uptimeMonth": "99.46%",
     "uptimeYear": "98.48%",
     "time": 2552,
-    "timeDay": 517,
-    "timeWeek": 1213,
-    "timeMonth": 1386,
-    "timeYear": 2816,
+    "timeDay": 273,
+    "timeWeek": 1158,
+    "timeMonth": 1382,
+    "timeYear": 2815,
     "dailyMinutesDown": {
       "2022-12-02": 80,
       "2022-11-17": 156,
@@ -484,9 +484,9 @@
     "uptimeMonth": "99.41%",
     "uptimeYear": "98.24%",
     "time": 2457,
-    "timeDay": 298,
-    "timeWeek": 1350,
-    "timeMonth": 2977,
+    "timeDay": 395,
+    "timeWeek": 1344,
+    "timeMonth": 2980,
     "timeYear": 2833,
     "dailyMinutesDown": {
       "2022-12-10": 21,
@@ -575,9 +575,9 @@
     "uptimeMonth": "98.91%",
     "uptimeYear": "97.98%",
     "time": 2883,
-    "timeDay": 499,
-    "timeWeek": 1527,
-    "timeMonth": 1738,
+    "timeDay": 257,
+    "timeWeek": 1524,
+    "timeMonth": 1736,
     "timeYear": 3183,
     "dailyMinutesDown": {
       "2022-12-07": 118,
@@ -665,17 +665,16 @@
     "slug": "music-bot-uitm",
     "status": "up",
     "uptime": "98.90%",
-    "uptimeDay": "99.14%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.75%",
-    "uptimeYear": "98.68%",
-    "time": 2898,
-    "timeDay": 320,
-    "timeWeek": 1430,
-    "timeMonth": 1676,
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.78%",
+    "uptimeYear": "98.67%",
+    "time": 2895,
+    "timeDay": 358,
+    "timeWeek": 1425,
+    "timeMonth": 1684,
     "timeYear": 3139,
     "dailyMinutesDown": {
-      "2022-12-10": 12,
       "2022-12-03": 36,
       "2022-11-30": 17,
       "2022-11-27": 43,
@@ -750,7 +749,7 @@
       "2022-04-08": 30,
       "2022-04-06": 48,
       "2022-04-05": 156,
-      "2022-04-02": 16
+      "2022-04-02": 33
     }
   }
 ]
