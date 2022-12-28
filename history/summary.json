@@ -12,11 +12,12 @@
     "uptimeYear": "0.00%",
     "time": 1735,
     "timeDay": 0,
-    "timeWeek": 797,
-    "timeMonth": 3717,
+    "timeWeek": 1443,
+    "timeMonth": 3861,
     "timeYear": 1754,
     "dailyMinutesDown": {
-      "2022-12-27": 944,
+      "2022-12-28": 25,
+      "2022-12-27": 1440,
       "2022-12-26": 1440,
       "2022-12-25": 1440,
       "2022-12-24": 1440,
@@ -379,8 +380,7 @@
       "2022-01-01": 1440,
       "2021-12-31": 1440,
       "2021-12-30": 1440,
-      "2021-12-29": 1440,
-      "2021-12-28": 1440
+      "2021-12-29": 1440
     }
   },
   {
@@ -390,17 +390,16 @@
     "slug": "penyanyi-vf-v3",
     "status": "up",
     "uptime": "98.85%",
-    "uptimeDay": "99.49%",
-    "uptimeWeek": "99.73%",
-    "uptimeMonth": "99.75%",
-    "uptimeYear": "98.49%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.77%",
+    "uptimeYear": "98.48%",
     "time": 2526,
-    "timeDay": 387,
-    "timeWeek": 2040,
-    "timeMonth": 1361,
+    "timeDay": 359,
+    "timeWeek": 2033,
+    "timeMonth": 1408,
     "timeYear": 2824,
     "dailyMinutesDown": {
-      "2022-12-27": 7,
       "2022-12-24": 20,
       "2022-12-02": 80,
       "2022-11-17": 156,
@@ -470,7 +469,7 @@
       "2022-04-11": 59,
       "2022-04-09": 21,
       "2022-04-08": 30,
-      "2022-04-05": 19
+      "2022-04-05": 41
     }
   },
   {
@@ -480,17 +479,16 @@
     "slug": "uptime-vf-bot",
     "status": "up",
     "uptime": "98.87%",
-    "uptimeDay": "99.52%",
-    "uptimeWeek": "99.74%",
-    "uptimeMonth": "99.75%",
-    "uptimeYear": "98.26%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.76%",
+    "uptimeYear": "98.24%",
     "time": 2460,
-    "timeDay": 1694,
-    "timeWeek": 1333,
-    "timeMonth": 966,
-    "timeYear": 2824,
+    "timeDay": 465,
+    "timeWeek": 1349,
+    "timeMonth": 972,
+    "timeYear": 2825,
     "dailyMinutesDown": {
-      "2022-12-27": 7,
       "2022-12-24": 19,
       "2022-12-11": 28,
       "2022-12-10": 21,
@@ -563,7 +561,7 @@
       "2022-04-06": 19,
       "2022-04-05": 72,
       "2022-04-02": 33,
-      "2022-04-01": 96
+      "2022-04-01": 161
     }
   },
   {
@@ -572,18 +570,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/evobot-1.nexter32.repl.co.ico",
     "slug": "penyanyi-vf-v2",
     "status": "up",
-    "uptime": "98.69%",
-    "uptimeDay": "99.56%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.04%",
-    "uptimeYear": "97.97%",
-    "time": 2913,
-    "timeDay": 279,
-    "timeWeek": 1901,
+    "uptime": "98.68%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.06%",
+    "uptimeYear": "97.96%",
+    "time": 2910,
+    "timeDay": 302,
+    "timeWeek": 1914,
     "timeMonth": 1561,
     "timeYear": 3210,
     "dailyMinutesDown": {
-      "2022-12-27": 6,
       "2022-12-18": 65,
       "2022-12-12": 62,
       "2022-12-07": 118,
@@ -660,7 +657,7 @@
       "2022-04-11": 59,
       "2022-04-09": 46,
       "2022-04-08": 30,
-      "2022-04-05": 19
+      "2022-04-05": 59
     }
   },
   {
@@ -674,10 +671,10 @@
     "uptimeWeek": "99.82%",
     "uptimeMonth": "99.77%",
     "uptimeYear": "98.67%",
-    "time": 2860,
-    "timeDay": 3629,
-    "timeWeek": 2687,
-    "timeMonth": 1280,
+    "time": 2857,
+    "timeDay": 310,
+    "timeWeek": 2674,
+    "timeMonth": 1278,
     "timeYear": 3157,
     "dailyMinutesDown": {
       "2022-12-24": 18,
