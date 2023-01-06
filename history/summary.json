@@ -16,7 +16,7 @@
     "timeMonth": 3393,
     "timeYear": 1754,
     "dailyMinutesDown": {
-      "2023-01-06": 28,
+      "2023-01-06": 695,
       "2023-01-05": 1440,
       "2023-01-04": 1440,
       "2023-01-03": 1440,
@@ -388,18 +388,19 @@
     "url": "https://discord-musicbot.nexter32.repl.co",
     "icon": "https://icons.duckduckgo.com/ip3/discord-musicbot.nexter32.repl.co.ico",
     "slug": "penyanyi-vf-v3",
-    "status": "up",
-    "uptime": "98.87%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "98.88%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.82%",
-    "uptimeYear": "98.48%",
-    "time": 2583,
+    "uptimeYear": "98.49%",
+    "time": 2586,
     "timeDay": 537,
     "timeWeek": 1237,
     "timeMonth": 1735,
     "timeYear": 2843,
     "dailyMinutesDown": {
+      "2023-01-06": 0,
       "2022-12-29": 60,
       "2022-12-24": 20,
       "2022-12-02": 80,
@@ -467,8 +468,7 @@
       "2022-04-17": 102,
       "2022-04-16": 105,
       "2022-04-13": 24,
-      "2022-04-11": 59,
-      "2022-04-09": 21
+      "2022-04-11": 59
     }
   },
   {
