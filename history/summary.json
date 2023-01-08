@@ -16,7 +16,7 @@
     "timeMonth": 3172,
     "timeYear": 1754,
     "dailyMinutesDown": {
-      "2023-01-08": 870,
+      "2023-01-08": 876,
       "2023-01-07": 1440,
       "2023-01-06": 1440,
       "2023-01-05": 1440,
@@ -388,19 +388,19 @@
     "url": "https://discord-musicbot.nexter32.repl.co",
     "icon": "https://icons.duckduckgo.com/ip3/discord-musicbot.nexter32.repl.co.ico",
     "slug": "penyanyi-vf-v3",
-    "status": "up",
+    "status": "down",
     "uptime": "98.88%",
-    "uptimeDay": "94.47%",
-    "uptimeWeek": "98.23%",
+    "uptimeDay": "94.39%",
+    "uptimeWeek": "98.22%",
     "uptimeMonth": "99.41%",
-    "uptimeYear": "98.48%",
-    "time": 2685,
+    "uptimeYear": "98.49%",
+    "time": 2561,
     "timeDay": 7912,
     "timeWeek": 4115,
     "timeMonth": 2643,
     "timeYear": 2897,
     "dailyMinutesDown": {
-      "2023-01-08": 80,
+      "2023-01-08": 81,
       "2023-01-07": 61,
       "2023-01-06": 38,
       "2022-12-29": 60,
@@ -468,7 +468,7 @@
       "2022-04-24": 20,
       "2022-04-20": 60,
       "2022-04-17": 102,
-      "2022-04-16": 37
+      "2022-04-16": 17
     }
   },
   {
@@ -476,19 +476,19 @@
     "url": "https://uptime-discord-bot.nexter32.repl.co",
     "icon": "https://icons.duckduckgo.com/ip3/uptime-discord-bot.nexter32.repl.co.ico",
     "slug": "uptime-vf-bot",
-    "status": "up",
+    "status": "down",
     "uptime": "98.89%",
-    "uptimeDay": "92.44%",
-    "uptimeWeek": "98.09%",
-    "uptimeMonth": "99.22%",
+    "uptimeDay": "92.36%",
+    "uptimeWeek": "98.08%",
+    "uptimeMonth": "99.21%",
     "uptimeYear": "98.25%",
-    "time": 2585,
+    "time": 2588,
     "timeDay": 7026,
     "timeWeek": 4500,
     "timeMonth": 2403,
     "timeYear": 2905,
     "dailyMinutesDown": {
-      "2023-01-08": 110,
+      "2023-01-08": 111,
       "2023-01-07": 61,
       "2023-01-06": 23,
       "2022-12-29": 83,
@@ -559,8 +559,7 @@
       "2022-04-13": 24,
       "2022-04-12": 35,
       "2022-04-11": 59,
-      "2022-04-09": 32,
-      "2022-04-08": 30
+      "2022-04-09": 32
     }
   },
   {
