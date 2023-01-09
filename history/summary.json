@@ -16,7 +16,7 @@
     "timeMonth": 3020,
     "timeYear": 1754,
     "dailyMinutesDown": {
-      "2023-01-09": 26,
+      "2023-01-09": 579,
       "2023-01-08": 1440,
       "2023-01-07": 1440,
       "2023-01-06": 1440,
@@ -396,9 +396,9 @@
     "uptimeYear": "98.49%",
     "time": 2590,
     "timeDay": 7805,
-    "timeWeek": 4621,
+    "timeWeek": 4907,
     "timeMonth": 2946,
-    "timeYear": 2922,
+    "timeYear": 2926,
     "dailyMinutesDown": {
       "2023-01-08": 152,
       "2023-01-07": 61,
@@ -483,7 +483,7 @@
     "uptimeYear": "98.26%",
     "time": 2622,
     "timeDay": 6708,
-    "timeWeek": 4733,
+    "timeWeek": 5269,
     "timeMonth": 2621,
     "timeYear": 2922,
     "dailyMinutesDown": {
@@ -564,14 +564,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/evobot-1.nexter32.repl.co.ico",
     "slug": "penyanyi-vf-v2",
     "status": "up",
-    "uptime": "98.72%",
+    "uptime": "98.73%",
     "uptimeDay": "91.11%",
     "uptimeWeek": "98.52%",
     "uptimeMonth": "99.30%",
     "uptimeYear": "97.98%",
     "time": 3064,
     "timeDay": 8447,
-    "timeWeek": 4454,
+    "timeWeek": 5008,
     "timeMonth": 2793,
     "timeYear": 3283,
     "dailyMinutesDown": {
@@ -655,18 +655,19 @@
     "url": "https://MusicBot-UITM.nexter32.repl.co",
     "icon": "https://icons.duckduckgo.com/ip3/musicbot-uitm.nexter32.repl.co.ico",
     "slug": "music-bot-uitm",
-    "status": "up",
+    "status": "down",
     "uptime": "98.98%",
-    "uptimeDay": "92.90%",
-    "uptimeWeek": "98.03%",
+    "uptimeDay": "92.87%",
+    "uptimeWeek": "98.02%",
     "uptimeMonth": "99.35%",
     "uptimeYear": "98.69%",
     "time": 2952,
     "timeDay": 5839,
-    "timeWeek": 3814,
+    "timeWeek": 4296,
     "timeMonth": 2299,
     "timeYear": 3184,
     "dailyMinutesDown": {
+      "2023-01-09": 0,
       "2023-01-08": 102,
       "2023-01-07": 61,
       "2023-01-06": 36,
@@ -740,8 +741,7 @@
       "2022-04-20": 62,
       "2022-04-17": 61,
       "2022-04-16": 135,
-      "2022-04-13": 24,
-      "2022-04-12": 23
+      "2022-04-13": 24
     }
   }
 ]
