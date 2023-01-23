@@ -12,11 +12,12 @@
     "uptimeYear": "0.00%",
     "time": 1787,
     "timeDay": 0,
-    "timeWeek": 19540,
+    "timeWeek": 0,
     "timeMonth": 19540,
-    "timeYear": 1827,
+    "timeYear": 1832,
     "dailyMinutesDown": {
-      "2023-01-22": 825,
+      "2023-01-23": 26,
+      "2023-01-22": 1440,
       "2023-01-21": 1440,
       "2023-01-20": 1440,
       "2023-01-19": 1440,
@@ -379,8 +380,7 @@
       "2022-01-27": 1440,
       "2022-01-26": 1440,
       "2022-01-25": 1440,
-      "2022-01-24": 1440,
-      "2022-01-23": 1440
+      "2022-01-24": 1440
     }
   },
   {
@@ -395,9 +395,9 @@
     "uptimeMonth": "99.09%",
     "uptimeYear": "98.50%",
     "time": 2566,
-    "timeDay": 479,
-    "timeWeek": 650,
-    "timeMonth": 3060,
+    "timeDay": 301,
+    "timeWeek": 660,
+    "timeMonth": 3055,
     "timeYear": 2927,
     "dailyMinutesDown": {
       "2023-01-20": 20,
@@ -481,10 +481,10 @@
     "uptimeWeek": "99.80%",
     "uptimeMonth": "99.07%",
     "uptimeYear": "98.27%",
-    "time": 2630,
-    "timeDay": 295,
-    "timeWeek": 935,
-    "timeMonth": 2826,
+    "time": 2628,
+    "timeDay": 422,
+    "timeWeek": 953,
+    "timeMonth": 2829,
     "timeYear": 2929,
     "dailyMinutesDown": {
       "2023-01-20": 20,
@@ -571,9 +571,9 @@
     "uptimeMonth": "99.05%",
     "uptimeYear": "97.96%",
     "time": 2973,
-    "timeDay": 5204,
-    "timeWeek": 4526,
-    "timeMonth": 4182,
+    "timeDay": 5266,
+    "timeWeek": 4540,
+    "timeMonth": 4097,
     "timeYear": 3411,
     "dailyMinutesDown": {
       "2023-01-22": 75,
@@ -660,17 +660,16 @@
     "slug": "music-bot-uitm",
     "status": "up",
     "uptime": "99.00%",
-    "uptimeDay": "99.61%",
-    "uptimeWeek": "98.45%",
-    "uptimeMonth": "99.01%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "98.51%",
+    "uptimeMonth": "99.02%",
     "uptimeYear": "98.68%",
     "time": 2935,
-    "timeDay": 396,
-    "timeWeek": 3341,
+    "timeDay": 540,
+    "timeWeek": 3342,
     "timeMonth": 2843,
-    "timeYear": 3221,
+    "timeYear": 3222,
     "dailyMinutesDown": {
-      "2023-01-22": 6,
       "2023-01-21": 63,
       "2023-01-20": 88,
       "2023-01-11": 19,
@@ -746,7 +745,7 @@
       "2022-04-22": 22,
       "2022-04-20": 62,
       "2022-04-17": 61,
-      "2022-04-16": 37
+      "2022-04-16": 64
     }
   }
 ]
