@@ -14,9 +14,10 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 19540,
-    "timeYear": 1832,
+    "timeYear": 1837,
     "dailyMinutesDown": {
-      "2023-01-23": 899,
+      "2023-01-24": 28,
+      "2023-01-23": 1440,
       "2023-01-22": 1440,
       "2023-01-21": 1440,
       "2023-01-20": 1440,
@@ -379,8 +380,7 @@
       "2022-01-28": 1440,
       "2022-01-27": 1440,
       "2022-01-26": 1440,
-      "2022-01-25": 1440,
-      "2022-01-24": 1440
+      "2022-01-25": 1440
     }
   },
   {
@@ -389,18 +389,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/discord-musicbot.nexter32.repl.co.ico",
     "slug": "penyanyi-vf-v3",
     "status": "up",
-    "uptime": "98.93%",
-    "uptimeDay": "99.62%",
-    "uptimeWeek": "99.75%",
-    "uptimeMonth": "99.08%",
-    "uptimeYear": "98.51%",
-    "time": 2561,
-    "timeDay": 276,
-    "timeWeek": 626,
-    "timeMonth": 2831,
-    "timeYear": 2923,
+    "uptime": "98.92%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.09%",
+    "uptimeYear": "98.50%",
+    "time": 2562,
+    "timeDay": 509,
+    "timeWeek": 656,
+    "timeMonth": 2837,
+    "timeYear": 2924,
     "dailyMinutesDown": {
-      "2023-01-23": 6,
       "2023-01-20": 20,
       "2023-01-13": 28,
       "2023-01-11": 20,
@@ -467,7 +466,8 @@
       "2022-05-22": 75,
       "2022-05-14": 15,
       "2022-05-08": 15,
-      "2022-04-30": 74
+      "2022-04-30": 74,
+      "2022-04-27": 71
     }
   },
   {
@@ -482,8 +482,8 @@
     "uptimeMonth": "99.07%",
     "uptimeYear": "98.27%",
     "time": 2628,
-    "timeDay": 422,
-    "timeWeek": 953,
+    "timeDay": 469,
+    "timeWeek": 966,
     "timeMonth": 2769,
     "timeYear": 2929,
     "dailyMinutesDown": {
@@ -570,10 +570,10 @@
     "uptimeWeek": "99.26%",
     "uptimeMonth": "99.05%",
     "uptimeYear": "97.96%",
-    "time": 2973,
-    "timeDay": 311,
-    "timeWeek": 4948,
-    "timeMonth": 4037,
+    "time": 2970,
+    "timeDay": 288,
+    "timeWeek": 4932,
+    "timeMonth": 4034,
     "timeYear": 3411,
     "dailyMinutesDown": {
       "2023-01-22": 75,
@@ -665,9 +665,9 @@
     "uptimeMonth": "99.02%",
     "uptimeYear": "98.68%",
     "time": 2935,
-    "timeDay": 506,
-    "timeWeek": 3342,
-    "timeMonth": 2677,
+    "timeDay": 462,
+    "timeWeek": 3350,
+    "timeMonth": 2556,
     "timeYear": 3222,
     "dailyMinutesDown": {
       "2023-01-21": 63,
