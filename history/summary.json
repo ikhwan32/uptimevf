@@ -16,7 +16,7 @@
     "timeMonth": 19540,
     "timeYear": 1919,
     "dailyMinutesDown": {
-      "2023-02-09": 42,
+      "2023-02-09": 132,
       "2023-02-08": 1440,
       "2023-02-07": 1440,
       "2023-02-06": 1440,
@@ -660,18 +660,19 @@
     "url": "https://MusicBot-UITM.nexter32.repl.co",
     "icon": "https://icons.duckduckgo.com/ip3/musicbot-uitm.nexter32.repl.co.ico",
     "slug": "music-bot-uitm",
-    "status": "up",
+    "status": "down",
     "uptime": "99.03%",
-    "uptimeDay": "97.92%",
+    "uptimeDay": "97.90%",
     "uptimeWeek": "99.52%",
     "uptimeMonth": "99.50%",
     "uptimeYear": "98.68%",
-    "time": 2789,
+    "time": 2792,
     "timeDay": 390,
     "timeWeek": 845,
     "timeMonth": 1560,
     "timeYear": 3201,
     "dailyMinutesDown": {
+      "2023-02-09": 0,
       "2023-02-08": 30,
       "2023-02-02": 18,
       "2023-01-21": 63,
@@ -748,8 +749,7 @@
       "2022-04-23": 29,
       "2022-04-22": 22,
       "2022-04-20": 62,
-      "2022-04-17": 61,
-      "2022-04-16": 17
+      "2022-04-17": 61
     }
   }
 ]
