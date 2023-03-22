@@ -1,7 +1,7 @@
 url: https://discord-musicbot.nexter32.repl.co
-status: up
-code: 200
-responseTime: 480
-lastUpdated: 2023-03-22T13:55:44.382Z
+status: down
+code: 429
+responseTime: 12565
+lastUpdated: 2023-03-22T19:20:35.619Z
 startTime: Thu Sep 02 2021 18:25:24 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
