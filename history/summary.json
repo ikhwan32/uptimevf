@@ -10,13 +10,14 @@
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
     "uptimeYear": "0.00%",
-    "time": 1787,
+    "time": 1753,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 2140,
+    "timeYear": 2148,
     "dailyMinutesDown": {
-      "2023-03-22": 1168,
+      "2023-03-23": 27,
+      "2023-03-22": 1440,
       "2023-03-21": 1440,
       "2023-03-20": 1440,
       "2023-03-19": 1440,
@@ -379,8 +380,7 @@
       "2022-03-27": 1440,
       "2022-03-26": 1440,
       "2022-03-25": 1440,
-      "2022-03-24": 1440,
-      "2022-03-23": 1440
+      "2022-03-24": 1440
     }
   },
   {
@@ -390,17 +390,16 @@
     "slug": "penyanyi-vf-v3",
     "status": "up",
     "uptime": "99.04%",
-    "uptimeDay": "99.47%",
-    "uptimeWeek": "99.65%",
-    "uptimeMonth": "99.92%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.72%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "98.51%",
-    "time": 2836,
-    "timeDay": 3500,
-    "timeWeek": 1610,
-    "timeMonth": 1157,
-    "timeYear": 2904,
+    "time": 2833,
+    "timeDay": 3538,
+    "timeWeek": 1628,
+    "timeMonth": 1165,
+    "timeYear": 2905,
     "dailyMinutesDown": {
-      "2023-03-22": 8,
       "2023-03-17": 28,
       "2023-02-20": 16,
       "2023-02-13": 20,
@@ -470,7 +469,7 @@
       "2022-06-11": 25,
       "2022-06-10": 26,
       "2022-06-09": 111,
-      "2022-06-07": 68
+      "2022-06-07": 85
     }
   },
   {
@@ -480,17 +479,16 @@
     "slug": "uptime-vf-bot",
     "status": "up",
     "uptime": "99.03%",
-    "uptimeDay": "99.47%",
-    "uptimeWeek": "99.65%",
-    "uptimeMonth": "99.92%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.72%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "98.27%",
-    "time": 2840,
-    "timeDay": 490,
-    "timeWeek": 425,
+    "time": 2836,
+    "timeDay": 420,
+    "timeWeek": 417,
     "timeMonth": 363,
     "timeYear": 2799,
     "dailyMinutesDown": {
-      "2023-03-22": 8,
       "2023-03-17": 28,
       "2023-02-20": 22,
       "2023-02-19": 18,
@@ -562,7 +560,8 @@
       "2022-05-22": 58,
       "2022-05-14": 15,
       "2022-04-30": 42,
-      "2022-04-27": 99
+      "2022-04-27": 99,
+      "2022-04-24": 20
     }
   },
   {
@@ -572,17 +571,16 @@
     "slug": "penyanyi-vf-v2",
     "status": "up",
     "uptime": "98.85%",
-    "uptimeDay": "99.47%",
-    "uptimeWeek": "99.65%",
-    "uptimeMonth": "99.92%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.72%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "97.96%",
-    "time": 3337,
-    "timeDay": 2491,
-    "timeWeek": 1233,
+    "time": 3333,
+    "timeDay": 2504,
+    "timeWeek": 1237,
     "timeMonth": 625,
-    "timeYear": 3353,
+    "timeYear": 3354,
     "dailyMinutesDown": {
-      "2023-03-22": 8,
       "2023-03-17": 28,
       "2023-02-20": 22,
       "2023-02-08": 30,
@@ -656,7 +654,8 @@
       "2022-05-22": 58,
       "2022-05-14": 15,
       "2022-04-30": 43,
-      "2022-04-27": 73
+      "2022-04-27": 73,
+      "2022-04-24": 20
     }
   },
   {
@@ -671,8 +670,8 @@
     "uptimeMonth": "99.94%",
     "uptimeYear": "98.68%",
     "time": 3044,
-    "timeDay": 6835,
-    "timeWeek": 1233,
+    "timeDay": 358,
+    "timeWeek": 1241,
     "timeMonth": 642,
     "timeYear": 3095,
     "dailyMinutesDown": {
