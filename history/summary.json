@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 2183,
     "dailyMinutesDown": {
-      "2023-03-28": 1110,
+      "2023-03-28": 1300,
       "2023-03-27": 1440,
       "2023-03-26": 1440,
       "2023-03-25": 1440,
@@ -388,17 +388,17 @@
     "url": "https://discord-musicbot.nexter32.repl.co",
     "icon": "https://icons.duckduckgo.com/ip3/discord-musicbot.nexter32.repl.co.ico",
     "slug": "penyanyi-vf-v3",
-    "status": "up",
-    "uptime": "99.03%",
-    "uptimeDay": "96.68%",
+    "status": "down",
+    "uptime": "99.04%",
+    "uptimeDay": "96.65%",
     "uptimeWeek": "98.42%",
     "uptimeMonth": "99.57%",
-    "uptimeYear": "98.48%",
-    "time": 2908,
-    "timeDay": 3964,
-    "timeWeek": 2422,
-    "timeMonth": 1196,
-    "timeYear": 2838,
+    "uptimeYear": "98.49%",
+    "time": 2913,
+    "timeDay": 3894,
+    "timeWeek": 2501,
+    "timeMonth": 1257,
+    "timeYear": 2842,
     "dailyMinutesDown": {
       "2023-03-28": 48,
       "2023-03-23": 111,
@@ -470,8 +470,7 @@
       "2022-06-12": 127,
       "2022-06-11": 25,
       "2022-06-10": 26,
-      "2022-06-09": 111,
-      "2022-06-07": 44
+      "2022-06-09": 111
     }
   },
   {
@@ -479,17 +478,17 @@
     "url": "https://uptime-discord-bot.nexter32.repl.co",
     "icon": "https://icons.duckduckgo.com/ip3/uptime-discord-bot.nexter32.repl.co.ico",
     "slug": "uptime-vf-bot",
-    "status": "up",
+    "status": "down",
     "uptime": "99.04%",
-    "uptimeDay": "96.69%",
+    "uptimeDay": "96.66%",
     "uptimeWeek": "98.73%",
     "uptimeMonth": "99.64%",
     "uptimeYear": "98.28%",
-    "time": 2831,
-    "timeDay": 2625,
-    "timeWeek": 1387,
-    "timeMonth": 778,
-    "timeYear": 2646,
+    "time": 2835,
+    "timeDay": 3479,
+    "timeWeek": 1646,
+    "timeMonth": 903,
+    "timeYear": 2653,
     "dailyMinutesDown": {
       "2023-03-28": 48,
       "2023-03-23": 81,
@@ -561,8 +560,7 @@
       "2022-06-07": 60,
       "2022-05-28": 66,
       "2022-05-23": 31,
-      "2022-05-22": 58,
-      "2022-05-14": 15
+      "2022-05-22": 58
     }
   },
   {
