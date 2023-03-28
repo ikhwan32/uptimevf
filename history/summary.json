@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 2183,
     "dailyMinutesDown": {
-      "2023-03-28": 1336,
+      "2023-03-28": 1347,
       "2023-03-27": 1440,
       "2023-03-26": 1440,
       "2023-03-25": 1440,
@@ -481,9 +481,9 @@
     "slug": "uptime-vf-bot",
     "status": "up",
     "uptime": "99.04%",
-    "uptimeDay": "95.70%",
-    "uptimeWeek": "98.59%",
-    "uptimeMonth": "99.61%",
+    "uptimeDay": "96.69%",
+    "uptimeWeek": "98.73%",
+    "uptimeMonth": "99.64%",
     "uptimeYear": "98.28%",
     "time": 2839,
     "timeDay": 2971,
@@ -491,7 +491,7 @@
     "timeMonth": 996,
     "timeYear": 2651,
     "dailyMinutesDown": {
-      "2023-03-28": 62,
+      "2023-03-28": 48,
       "2023-03-23": 81,
       "2023-03-17": 28,
       "2023-02-20": 22,
@@ -561,7 +561,8 @@
       "2022-06-07": 60,
       "2022-05-28": 66,
       "2022-05-23": 31,
-      "2022-05-22": 58
+      "2022-05-22": 58,
+      "2022-05-14": 15
     }
   },
   {
@@ -663,17 +664,17 @@
     "url": "https://MusicBot-UITM.nexter32.repl.co",
     "icon": "https://icons.duckduckgo.com/ip3/musicbot-uitm.nexter32.repl.co.ico",
     "slug": "music-bot-uitm",
-    "status": "up",
+    "status": "down",
     "uptime": "99.11%",
-    "uptimeDay": "96.72%",
-    "uptimeWeek": "98.59%",
+    "uptimeDay": "96.69%",
+    "uptimeWeek": "98.58%",
     "uptimeMonth": "99.61%",
     "uptimeYear": "98.67%",
     "time": 3126,
-    "timeDay": 3519,
-    "timeWeek": 3247,
-    "timeMonth": 1422,
-    "timeYear": 2945,
+    "timeDay": 2826,
+    "timeWeek": 3069,
+    "timeMonth": 1404,
+    "timeYear": 2941,
     "dailyMinutesDown": {
       "2023-03-28": 47,
       "2023-03-23": 95,
@@ -752,7 +753,7 @@
       "2022-05-12": 113,
       "2022-04-30": 76,
       "2022-04-27": 74,
-      "2022-04-26": 47
+      "2022-04-26": 26
     }
   }
 ]
