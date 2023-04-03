@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 2187,
     "dailyMinutesDown": {
-      "2023-04-03": 26,
+      "2023-04-03": 805,
       "2023-04-02": 1440,
       "2023-04-01": 1440,
       "2023-03-31": 1440,
@@ -388,18 +388,19 @@
     "url": "https://discord-musicbot.nexter32.repl.co",
     "icon": "https://icons.duckduckgo.com/ip3/discord-musicbot.nexter32.repl.co.ico",
     "slug": "penyanyi-vf-v3",
-    "status": "up",
-    "uptime": "99.04%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "99.05%",
+    "uptimeDay": "99.95%",
     "uptimeWeek": "99.22%",
     "uptimeMonth": "99.50%",
-    "uptimeYear": "98.49%",
-    "time": 2869,
+    "uptimeYear": "98.50%",
+    "time": 2867,
     "timeDay": 363,
     "timeWeek": 3310,
     "timeMonth": 1721,
     "timeYear": 2599,
     "dailyMinutesDown": {
+      "2023-04-03": 1,
       "2023-03-29": 30,
       "2023-03-28": 48,
       "2023-03-23": 111,
@@ -471,7 +472,7 @@
       "2022-06-12": 127,
       "2022-06-11": 25,
       "2022-06-10": 26,
-      "2022-06-09": 111
+      "2022-06-09": 64
     }
   },
   {
@@ -663,18 +664,19 @@
     "url": "https://MusicBot-UITM.nexter32.repl.co",
     "icon": "https://icons.duckduckgo.com/ip3/musicbot-uitm.nexter32.repl.co.ico",
     "slug": "music-bot-uitm",
-    "status": "up",
-    "uptime": "99.12%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "99.13%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "99.08%",
     "uptimeMonth": "99.51%",
-    "uptimeYear": "98.67%",
-    "time": 2987,
-    "timeDay": 260,
-    "timeWeek": 1733,
-    "timeMonth": 1435,
-    "timeYear": 2760,
+    "uptimeYear": "98.68%",
+    "time": 2989,
+    "timeDay": 971,
+    "timeWeek": 1729,
+    "timeMonth": 1441,
+    "timeYear": 2758,
     "dailyMinutesDown": {
+      "2023-04-03": 0,
       "2023-03-29": 31,
       "2023-03-28": 62,
       "2023-03-23": 95,
@@ -751,8 +753,7 @@
       "2022-05-22": 79,
       "2022-05-14": 15,
       "2022-05-12": 113,
-      "2022-04-30": 76,
-      "2022-04-27": 74
+      "2022-04-30": 76
     }
   }
 ]
