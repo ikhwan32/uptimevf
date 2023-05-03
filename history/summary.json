@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 2408,
     "dailyMinutesDown": {
-      "2023-05-03": 24,
+      "2023-05-03": 1016,
       "2023-05-02": 1440,
       "2023-05-01": 1440,
       "2023-04-30": 1440,
@@ -392,12 +392,12 @@
     "uptime": "99.10%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.50%",
+    "uptimeMonth": "99.61%",
     "uptimeYear": "98.50%",
     "time": 2697,
     "timeDay": 285,
     "timeWeek": 426,
-    "timeMonth": 2041,
+    "timeMonth": 1755,
     "timeYear": 2532,
     "dailyMinutesDown": {
       "2023-04-07": 169,
@@ -476,18 +476,19 @@
     "url": "https://uptime-discord-bot.nexter32.repl.co",
     "icon": "https://icons.duckduckgo.com/ip3/uptime-discord-bot.nexter32.repl.co.ico",
     "slug": "uptime-vf-bot",
-    "status": "up",
+    "status": "down",
     "uptime": "99.10%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.55%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.63%",
     "uptimeYear": "98.29%",
     "time": 2485,
     "timeDay": 294,
     "timeWeek": 381,
-    "timeMonth": 2271,
+    "timeMonth": 1987,
     "timeYear": 2582,
     "dailyMinutesDown": {
+      "2023-05-03": 1,
       "2023-04-07": 158,
       "2023-04-03": 38,
       "2023-03-29": 30,
@@ -555,7 +556,7 @@
       "2022-06-20": 51,
       "2022-06-19": 17,
       "2022-06-16": 32,
-      "2022-06-14": 52
+      "2022-06-14": 22
     }
   },
   {
@@ -563,18 +564,19 @@
     "url": "https://evobot-1.nexter32.repl.co",
     "icon": "https://icons.duckduckgo.com/ip3/evobot-1.nexter32.repl.co.ico",
     "slug": "penyanyi-vf-v2",
-    "status": "up",
+    "status": "down",
     "uptime": "98.90%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.05%",
-    "uptimeYear": "97.92%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.15%",
+    "uptimeYear": "97.93%",
     "time": 3082,
     "timeDay": 489,
     "timeWeek": 405,
-    "timeMonth": 1925,
+    "timeMonth": 1978,
     "timeYear": 2954,
     "dailyMinutesDown": {
+      "2023-05-03": 1,
       "2023-04-19": 53,
       "2023-04-07": 318,
       "2023-04-03": 43,
@@ -647,8 +649,7 @@
       "2022-06-12": 833,
       "2022-06-11": 1440,
       "2022-06-10": 254,
-      "2022-06-09": 32,
-      "2022-06-07": 46
+      "2022-06-09": 32
     }
   },
   {
@@ -656,18 +657,19 @@
     "url": "https://MusicBot-UITM.nexter32.repl.co",
     "icon": "https://icons.duckduckgo.com/ip3/musicbot-uitm.nexter32.repl.co.ico",
     "slug": "music-bot-uitm",
-    "status": "up",
-    "uptime": "99.16%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "99.17%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.37%",
-    "uptimeYear": "98.67%",
-    "time": 2814,
+    "uptimeMonth": "99.49%",
+    "uptimeYear": "98.68%",
+    "time": 2817,
     "timeDay": 462,
-    "timeWeek": 452,
-    "timeMonth": 2399,
+    "timeWeek": 450,
+    "timeMonth": 2450,
     "timeYear": 2770,
     "dailyMinutesDown": {
+      "2023-05-03": 0,
       "2023-04-07": 224,
       "2023-04-03": 51,
       "2023-03-29": 31,
@@ -743,7 +745,7 @@
       "2022-06-07": 47,
       "2022-06-02": 126,
       "2022-05-23": 50,
-      "2022-05-22": 79
+      "2022-05-22": 20
     }
   }
 ]
