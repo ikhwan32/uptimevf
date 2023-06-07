@@ -13,10 +13,11 @@
     "time": 1803,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 342,
-    "timeYear": 2442,
+    "timeMonth": 0,
+    "timeYear": 2428,
     "dailyMinutesDown": {
-      "2023-06-06": 31,
+      "2023-06-07": 30,
+      "2023-06-06": 1440,
       "2023-06-05": 1440,
       "2023-06-04": 1440,
       "2023-06-03": 1440,
@@ -379,8 +380,7 @@
       "2022-06-11": 1440,
       "2022-06-10": 1440,
       "2022-06-09": 1440,
-      "2022-06-08": 1440,
-      "2022-06-07": 1440
+      "2022-06-08": 1440
     }
   },
   {
@@ -389,16 +389,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/discord-musicbot.nexter32.repl.co.ico",
     "slug": "penyanyi-vf-v3",
     "status": "up",
-    "uptime": "99.14%",
+    "uptime": "99.15%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.39%",
     "uptimeYear": "98.50%",
     "time": 2490,
-    "timeDay": 435,
-    "timeWeek": 943,
-    "timeMonth": 1274,
-    "timeYear": 2356,
+    "timeDay": 804,
+    "timeWeek": 994,
+    "timeMonth": 1295,
+    "timeYear": 2357,
     "dailyMinutesDown": {
       "2023-05-24": 61,
       "2023-05-23": 22,
@@ -476,16 +476,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/uptime-discord-bot.nexter32.repl.co.ico",
     "slug": "uptime-vf-bot",
     "status": "up",
-    "uptime": "99.13%",
+    "uptime": "99.14%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.47%",
     "uptimeYear": "98.28%",
     "time": 2354,
-    "timeDay": 209,
-    "timeWeek": 338,
-    "timeMonth": 1039,
-    "timeYear": 2422,
+    "timeDay": 2380,
+    "timeWeek": 638,
+    "timeMonth": 1072,
+    "timeYear": 2426,
     "dailyMinutesDown": {
       "2023-05-24": 17,
       "2023-05-18": 111,
@@ -569,11 +569,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.59%",
     "uptimeYear": "98.38%",
-    "time": 2848,
-    "timeDay": 444,
-    "timeWeek": 390,
-    "timeMonth": 2042,
-    "timeYear": 2948,
+    "time": 2852,
+    "timeDay": 5499,
+    "timeWeek": 1096,
+    "timeMonth": 2133,
+    "timeYear": 2956,
     "dailyMinutesDown": {
       "2023-05-24": 40,
       "2023-05-18": 61,
@@ -662,9 +662,9 @@
     "uptimeMonth": "99.53%",
     "uptimeYear": "98.68%",
     "time": 2632,
-    "timeDay": 234,
-    "timeWeek": 347,
-    "timeMonth": 1312,
+    "timeDay": 489,
+    "timeWeek": 353,
+    "timeMonth": 1316,
     "timeYear": 2644,
     "dailyMinutesDown": {
       "2023-05-24": 40,
@@ -742,8 +742,7 @@
       "2022-06-12": 2,
       "2022-06-11": 20,
       "2022-06-10": 69,
-      "2022-06-09": 151,
-      "2022-06-07": 24
+      "2022-06-09": 151
     }
   }
 ]
