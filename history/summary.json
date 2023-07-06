@@ -16,7 +16,8 @@
     "timeMonth": 10197,
     "timeYear": 2610,
     "dailyMinutesDown": {
-      "2023-07-05": 1436,
+      "2023-07-06": 34,
+      "2023-07-05": 1440,
       "2023-07-04": 1440,
       "2023-07-03": 1440,
       "2023-07-02": 1440,
@@ -379,8 +380,7 @@
       "2022-07-10": 1440,
       "2022-07-09": 1440,
       "2022-07-08": 1440,
-      "2022-07-07": 1440,
-      "2022-07-06": 1440
+      "2022-07-07": 1440
     }
   },
   {
@@ -477,18 +477,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/uptime-discord-bot.nexter32.repl.co.ico",
     "slug": "uptime-vf-bot",
     "status": "down",
-    "uptime": "99.18%",
-    "uptimeDay": "93.80%",
-    "uptimeWeek": "98.55%",
-    "uptimeMonth": "99.67%",
-    "uptimeYear": "98.30%",
+    "uptime": "99.17%",
+    "uptimeDay": "91.12%",
+    "uptimeWeek": "98.17%",
+    "uptimeMonth": "99.58%",
+    "uptimeYear": "98.29%",
     "time": 2384,
     "timeDay": 7802,
     "timeWeek": 3961,
     "timeMonth": 2107,
     "timeYear": 2355,
     "dailyMinutesDown": {
-      "2023-07-05": 89,
+      "2023-07-06": 34,
+      "2023-07-05": 93,
       "2023-07-04": 28,
       "2023-07-01": 29,
       "2023-05-24": 17,
