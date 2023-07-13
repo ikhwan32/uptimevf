@@ -16,7 +16,7 @@
     "timeMonth": 10197,
     "timeYear": 2673,
     "dailyMinutesDown": {
-      "2023-07-13": 412,
+      "2023-07-13": 696,
       "2023-07-12": 1440,
       "2023-07-11": 1440,
       "2023-07-10": 1440,
@@ -389,18 +389,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/discord-musicbot.nexter32.repl.co.ico",
     "slug": "penyanyi-vf-v3",
     "status": "up",
-    "uptime": "99.23%",
-    "uptimeDay": "87.92%",
-    "uptimeWeek": "97.76%",
-    "uptimeMonth": "98.60%",
+    "uptime": "99.22%",
+    "uptimeDay": "91.35%",
+    "uptimeWeek": "97.84%",
+    "uptimeMonth": "98.61%",
     "uptimeYear": "98.56%",
     "time": 2417,
-    "timeDay": 4073,
+    "timeDay": 4269,
     "timeWeek": 1699,
     "timeMonth": 2320,
-    "timeYear": 2258,
+    "timeYear": 2250,
     "dailyMinutesDown": {
-      "2023-07-13": 7,
       "2023-07-12": 167,
       "2023-07-11": 32,
       "2023-07-07": 19,
@@ -470,7 +469,7 @@
       "2022-08-24": 30,
       "2022-08-22": 63,
       "2022-08-21": 36,
-      "2022-08-18": 47
+      "2022-08-18": 72
     }
   },
   {
@@ -486,9 +485,9 @@
     "uptimeYear": "98.27%",
     "time": 2396,
     "timeDay": 4174,
-    "timeWeek": 1658,
+    "timeWeek": 1494,
     "timeMonth": 2674,
-    "timeYear": 2422,
+    "timeYear": 2414,
     "dailyMinutesDown": {
       "2023-07-13": 97,
       "2023-07-12": 125,
@@ -575,7 +574,7 @@
     "timeDay": 1842,
     "timeWeek": 744,
     "timeMonth": 3096,
-    "timeYear": 2916,
+    "timeYear": 2909,
     "dailyMinutesDown": {
       "2023-07-12": 125,
       "2023-07-06": 50,
@@ -659,17 +658,17 @@
     "url": "https://MusicBot-UITM.nexter32.repl.co",
     "icon": "https://icons.duckduckgo.com/ip3/musicbot-uitm.nexter32.repl.co.ico",
     "slug": "music-bot-uitm",
-    "status": "up",
-    "uptime": "99.25%",
-    "uptimeDay": "88.41%",
+    "status": "down",
+    "uptime": "99.26%",
+    "uptimeDay": "88.38%",
     "uptimeWeek": "97.90%",
-    "uptimeMonth": "98.75%",
-    "uptimeYear": "98.66%",
-    "time": 2672,
-    "timeDay": 3882,
-    "timeWeek": 4726,
-    "timeMonth": 2819,
-    "timeYear": 2691,
+    "uptimeMonth": "98.74%",
+    "uptimeYear": "98.68%",
+    "time": 2669,
+    "timeDay": 3346,
+    "timeWeek": 4456,
+    "timeMonth": 2767,
+    "timeYear": 2686,
     "dailyMinutesDown": {
       "2023-07-13": 20,
       "2023-07-12": 147,
@@ -745,8 +744,7 @@
       "2022-07-31": 30,
       "2022-07-30": 43,
       "2022-07-23": 29,
-      "2022-07-18": 26,
-      "2022-07-16": 106
+      "2022-07-18": 26
     }
   }
 ]
