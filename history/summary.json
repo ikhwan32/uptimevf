@@ -12,11 +12,12 @@
     "uptimeYear": "0.00%",
     "time": 2071,
     "timeDay": 0,
-    "timeWeek": 2514,
+    "timeWeek": 4701,
     "timeMonth": 5075,
-    "timeYear": 2693,
+    "timeYear": 2685,
     "dailyMinutesDown": {
-      "2023-07-21": 1391,
+      "2023-07-22": 29,
+      "2023-07-21": 1440,
       "2023-07-20": 1440,
       "2023-07-19": 1440,
       "2023-07-18": 1440,
@@ -379,8 +380,7 @@
       "2022-07-26": 1440,
       "2022-07-25": 1440,
       "2022-07-24": 1440,
-      "2022-07-23": 1440,
-      "2022-07-22": 1440
+      "2022-07-23": 1440
     }
   },
   {
@@ -396,9 +396,9 @@
     "uptimeYear": "98.56%",
     "time": 2429,
     "timeDay": 11929,
-    "timeWeek": 6007,
-    "timeMonth": 3465,
-    "timeYear": 2417,
+    "timeWeek": 6300,
+    "timeMonth": 3499,
+    "timeYear": 2420,
     "dailyMinutesDown": {
       "2023-07-21": 31,
       "2023-07-20": 26,
@@ -487,9 +487,9 @@
     "uptimeYear": "98.28%",
     "time": 2446,
     "timeDay": 2765,
-    "timeWeek": 2890,
-    "timeMonth": 3059,
-    "timeYear": 2447,
+    "timeWeek": 3050,
+    "timeMonth": 3097,
+    "timeYear": 2450,
     "dailyMinutesDown": {
       "2023-07-14": 19,
       "2023-07-13": 97,
@@ -569,17 +569,16 @@
     "slug": "penyanyi-vf-v2",
     "status": "up",
     "uptime": "99.23%",
-    "uptimeDay": "99.19%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "98.93%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "98.96%",
     "uptimeYear": "98.43%",
     "time": 2835,
     "timeDay": 7468,
-    "timeWeek": 2159,
-    "timeMonth": 3037,
-    "timeYear": 2871,
+    "timeWeek": 2286,
+    "timeMonth": 3079,
+    "timeYear": 2873,
     "dailyMinutesDown": {
-      "2023-07-21": 12,
       "2023-07-12": 125,
       "2023-07-06": 50,
       "2023-07-04": 174,
@@ -652,8 +651,7 @@
       "2022-08-02": 62,
       "2022-08-01": 68,
       "2022-07-30": 38,
-      "2022-07-24": 25,
-      "2022-07-22": 17
+      "2022-07-24": 25
     }
   },
   {
@@ -669,9 +667,9 @@
     "uptimeYear": "98.68%",
     "time": 2633,
     "timeDay": 7100,
-    "timeWeek": 3416,
-    "timeMonth": 3075,
-    "timeYear": 2718,
+    "timeWeek": 3574,
+    "timeMonth": 3112,
+    "timeYear": 2722,
     "dailyMinutesDown": {
       "2023-07-20": 23,
       "2023-07-13": 20,
