@@ -1,7 +1,7 @@
 url: https://MusicBot-UITM.nexter32.repl.co
-status: up
-code: 200
-responseTime: 4994
-lastUpdated: 2023-07-24T15:53:15.503Z
+status: down
+code: 502
+responseTime: 10469
+lastUpdated: 2023-07-24T16:19:32.261Z
 startTime: Tue Sep 28 2021 06:41:09 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
