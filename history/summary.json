@@ -16,7 +16,7 @@
     "timeMonth": 2514,
     "timeYear": 2749,
     "dailyMinutesDown": {
-      "2023-07-28": 217,
+      "2023-07-28": 239,
       "2023-07-27": 1440,
       "2023-07-26": 1440,
       "2023-07-25": 1440,
@@ -388,18 +388,19 @@
     "url": "https://discord-musicbot.nexter32.repl.co",
     "icon": "https://icons.duckduckgo.com/ip3/discord-musicbot.nexter32.repl.co.ico",
     "slug": "penyanyi-vf-v3",
-    "status": "up",
+    "status": "down",
     "uptime": "99.24%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "98.86%",
     "uptimeMonth": "98.38%",
-    "uptimeYear": "98.55%",
-    "time": 2494,
-    "timeDay": 354,
-    "timeWeek": 4671,
-    "timeMonth": 3360,
-    "timeYear": 2404,
+    "uptimeYear": "98.56%",
+    "time": 2486,
+    "timeDay": 334,
+    "timeWeek": 4508,
+    "timeMonth": 3325,
+    "timeYear": 2400,
     "dailyMinutesDown": {
+      "2023-07-28": 0,
       "2023-07-25": 19,
       "2023-07-22": 64,
       "2023-07-21": 31,
@@ -472,7 +473,7 @@
       "2022-08-26": 25,
       "2022-08-25": 17,
       "2022-08-24": 30,
-      "2022-08-22": 63
+      "2022-08-22": 20
     }
   },
   {
@@ -482,17 +483,16 @@
     "slug": "uptime-vf-bot",
     "status": "up",
     "uptime": "99.19%",
-    "uptimeDay": "99.52%",
-    "uptimeWeek": "99.63%",
-    "uptimeMonth": "98.87%",
-    "uptimeYear": "98.28%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.70%",
+    "uptimeMonth": "98.88%",
+    "uptimeYear": "98.27%",
     "time": 2444,
     "timeDay": 3585,
     "timeWeek": 1962,
     "timeMonth": 3056,
     "timeYear": 2436,
     "dailyMinutesDown": {
-      "2023-07-28": 7,
       "2023-07-22": 30,
       "2023-07-14": 19,
       "2023-07-13": 97,
@@ -560,7 +560,8 @@
       "2022-08-15": 42,
       "2022-08-12": 24,
       "2022-08-11": 42,
-      "2022-08-09": 174
+      "2022-08-09": 174,
+      "2022-08-06": 30
     }
   },
   {
