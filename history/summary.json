@@ -10,13 +10,14 @@
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 2116,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 2514,
+    "time": 2118,
+    "timeDay": 417,
+    "timeWeek": 417,
+    "timeMonth": 1815,
     "timeYear": 2710,
     "dailyMinutesDown": {
-      "2023-08-02": 1286,
+      "2023-08-03": 31,
+      "2023-08-02": 1440,
       "2023-08-01": 1440,
       "2023-07-31": 1440,
       "2023-07-30": 1440,
@@ -379,8 +380,7 @@
       "2022-08-07": 1440,
       "2022-08-06": 1440,
       "2022-08-05": 1440,
-      "2022-08-04": 1440,
-      "2022-08-03": 1440
+      "2022-08-04": 1440
     }
   },
   {
@@ -395,10 +395,10 @@
     "uptimeMonth": "98.79%",
     "uptimeYear": "98.55%",
     "time": 2455,
-    "timeDay": 479,
-    "timeWeek": 613,
-    "timeMonth": 3380,
-    "timeYear": 2372,
+    "timeDay": 427,
+    "timeWeek": 610,
+    "timeMonth": 3413,
+    "timeYear": 2371,
     "dailyMinutesDown": {
       "2023-07-31": 16,
       "2023-07-25": 19,
@@ -482,18 +482,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/uptime-discord-bot.nexter32.repl.co.ico",
     "slug": "uptime-vf-bot",
     "status": "up",
-    "uptime": "99.21%",
-    "uptimeDay": "99.58%",
-    "uptimeWeek": "99.67%",
-    "uptimeMonth": "98.87%",
-    "uptimeYear": "98.31%",
-    "time": 2443,
-    "timeDay": 3635,
-    "timeWeek": 2516,
-    "timeMonth": 3073,
-    "timeYear": 2420,
+    "uptime": "99.20%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.73%",
+    "uptimeMonth": "98.89%",
+    "uptimeYear": "98.27%",
+    "time": 2444,
+    "timeDay": 3703,
+    "timeWeek": 2512,
+    "timeMonth": 3095,
+    "timeYear": 2419,
     "dailyMinutesDown": {
-      "2023-08-02": 6,
       "2023-07-31": 27,
       "2023-07-22": 30,
       "2023-07-14": 19,
@@ -561,7 +560,8 @@
       "2022-08-17": 107,
       "2022-08-15": 42,
       "2022-08-12": 24,
-      "2022-08-11": 42
+      "2022-08-11": 42,
+      "2022-08-09": 174
     }
   },
   {
@@ -576,10 +576,10 @@
     "uptimeMonth": "99.13%",
     "uptimeYear": "98.46%",
     "time": 2859,
-    "timeDay": 435,
-    "timeWeek": 1176,
-    "timeMonth": 2447,
-    "timeYear": 2836,
+    "timeDay": 422,
+    "timeWeek": 364,
+    "timeMonth": 2476,
+    "timeYear": 2820,
     "dailyMinutesDown": {
       "2023-07-25": 19,
       "2023-07-12": 125,
@@ -649,8 +649,7 @@
       "2022-08-15": 17,
       "2022-08-12": 24,
       "2022-08-10": 20,
-      "2022-08-07": 24,
-      "2022-08-03": 73
+      "2022-08-07": 24
     }
   },
   {
@@ -665,10 +664,10 @@
     "uptimeMonth": "98.72%",
     "uptimeYear": "98.93%",
     "time": 2691,
-    "timeDay": 1565,
-    "timeWeek": 4048,
-    "timeMonth": 3679,
-    "timeYear": 2666,
+    "timeDay": 1590,
+    "timeWeek": 4043,
+    "timeMonth": 3677,
+    "timeYear": 2665,
     "dailyMinutesDown": {
       "2023-07-28": 37,
       "2023-07-20": 23,
