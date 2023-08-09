@@ -16,7 +16,7 @@
     "timeMonth": 2513,
     "timeYear": 2724,
     "dailyMinutesDown": {
-      "2023-08-09": 28,
+      "2023-08-09": 238,
       "2023-08-08": 1440,
       "2023-08-07": 1440,
       "2023-08-06": 1440,
@@ -481,18 +481,19 @@
     "url": "https://uptime-discord-bot.nexter32.repl.co",
     "icon": "https://icons.duckduckgo.com/ip3/uptime-discord-bot.nexter32.repl.co.ico",
     "slug": "uptime-vf-bot",
-    "status": "up",
-    "uptime": "99.21%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.39%",
+    "status": "down",
+    "uptime": "99.22%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "99.38%",
     "uptimeMonth": "99.18%",
     "uptimeYear": "98.30%",
-    "time": 2473,
-    "timeDay": 3703,
-    "timeWeek": 3213,
-    "timeMonth": 2532,
-    "timeYear": 2444,
+    "time": 2474,
+    "timeDay": 2886,
+    "timeWeek": 3102,
+    "timeMonth": 2505,
+    "timeYear": 2443,
     "dailyMinutesDown": {
+      "2023-08-09": 0,
       "2023-08-07": 62,
       "2023-07-31": 27,
       "2023-07-22": 30,
@@ -560,8 +561,7 @@
       "2022-08-18": 137,
       "2022-08-17": 107,
       "2022-08-15": 42,
-      "2022-08-12": 24,
-      "2022-08-11": 42
+      "2022-08-12": 24
     }
   },
   {
