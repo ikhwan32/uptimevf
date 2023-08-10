@@ -10,13 +10,14 @@
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 2162,
+    "time": 2170,
     "timeDay": 0,
-    "timeWeek": 2513,
+    "timeWeek": 3561,
     "timeMonth": 2513,
-    "timeYear": 2724,
+    "timeYear": 2742,
     "dailyMinutesDown": {
-      "2023-08-09": 1226,
+      "2023-08-10": 28,
+      "2023-08-09": 1440,
       "2023-08-08": 1440,
       "2023-08-07": 1440,
       "2023-08-06": 1440,
@@ -379,8 +380,7 @@
       "2022-08-14": 1440,
       "2022-08-13": 1440,
       "2022-08-12": 1440,
-      "2022-08-11": 1440,
-      "2022-08-10": 1440
+      "2022-08-11": 1440
     }
   },
   {
@@ -394,9 +394,9 @@
     "uptimeWeek": "99.70%",
     "uptimeMonth": "99.08%",
     "uptimeYear": "98.55%",
-    "time": 2509,
-    "timeDay": 206,
-    "timeWeek": 2837,
+    "time": 2510,
+    "timeDay": 552,
+    "timeWeek": 2841,
     "timeMonth": 3208,
     "timeYear": 2393,
     "dailyMinutesDown": {
@@ -487,10 +487,10 @@
     "uptimeWeek": "99.23%",
     "uptimeMonth": "99.14%",
     "uptimeYear": "98.30%",
-    "time": 2453,
+    "time": 2433,
     "timeDay": 2309,
-    "timeWeek": 3151,
-    "timeMonth": 2543,
+    "timeWeek": 2983,
+    "timeMonth": 2545,
     "timeYear": 2439,
     "dailyMinutesDown": {
       "2023-08-09": 16,
@@ -571,17 +571,16 @@
     "slug": "penyanyi-vf-v2",
     "status": "up",
     "uptime": "99.25%",
-    "uptimeDay": "99.28%",
-    "uptimeWeek": "99.59%",
-    "uptimeMonth": "99.58%",
-    "uptimeYear": "98.47%",
-    "time": 2860,
-    "timeDay": 1085,
-    "timeWeek": 1921,
-    "timeMonth": 1966,
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.70%",
+    "uptimeMonth": "99.60%",
+    "uptimeYear": "98.48%",
+    "time": 2857,
+    "timeDay": 645,
+    "timeWeek": 1912,
+    "timeMonth": 1962,
     "timeYear": 2769,
     "dailyMinutesDown": {
-      "2023-08-09": 10,
       "2023-08-06": 30,
       "2023-07-25": 19,
       "2023-07-12": 125,
@@ -649,8 +648,7 @@
       "2022-08-18": 136,
       "2022-08-17": 106,
       "2022-08-15": 17,
-      "2022-08-12": 24,
-      "2022-08-10": 20
+      "2022-08-12": 24
     }
   },
   {
@@ -664,11 +662,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.38%",
     "uptimeYear": "98.93%",
-    "time": 2719,
-    "timeDay": 5964,
-    "timeWeek": 3636,
-    "timeMonth": 3713,
-    "timeYear": 2700,
+    "time": 2720,
+    "timeDay": 6780,
+    "timeWeek": 3649,
+    "timeMonth": 3716,
+    "timeYear": 2701,
     "dailyMinutesDown": {
       "2023-07-28": 37,
       "2023-07-20": 23,
@@ -739,8 +737,7 @@
       "2022-08-17": 165,
       "2022-08-16": 59,
       "2022-08-14": 77,
-      "2022-08-12": 28,
-      "2022-08-10": 22
+      "2022-08-12": 28
     }
   }
 ]
