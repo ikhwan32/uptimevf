@@ -16,7 +16,7 @@
     "timeMonth": 22622,
     "timeYear": 4729,
     "dailyMinutesDown": {
-      "2023-11-25": 24,
+      "2023-11-25": 1079,
       "2023-11-24": 1440,
       "2023-11-23": 1440,
       "2023-11-22": 1440,
@@ -396,7 +396,7 @@
     "uptimeYear": "99.57%",
     "time": 2118,
     "timeDay": 213,
-    "timeWeek": 452,
+    "timeWeek": 445,
     "timeMonth": 704,
     "timeYear": 1900,
     "dailyMinutesDown": {
@@ -454,9 +454,9 @@
     "url": "https://uptime-discord-bot.nexter32.repl.co",
     "icon": "https://icons.duckduckgo.com/ip3/uptime-discord-bot.nexter32.repl.co.ico",
     "slug": "uptime-vf-bot",
-    "status": "up",
-    "uptime": "99.31%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "99.32%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.63%",
@@ -466,6 +466,7 @@
     "timeMonth": 1157,
     "timeYear": 1688,
     "dailyMinutesDown": {
+      "2023-11-25": 0,
       "2023-11-16": 20,
       "2023-10-05": 28,
       "2023-09-07": 31,
