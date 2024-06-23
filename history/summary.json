@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 5535,
     "dailyMinutesDown": {
-      "2024-06-22": 27,
+      "2024-06-23": 30,
+      "2024-06-22": 1440,
       "2024-06-21": 1440,
       "2024-06-20": 1440,
       "2024-06-19": 1440,
@@ -379,8 +380,7 @@
       "2023-06-28": 1440,
       "2023-06-27": 1440,
       "2023-06-26": 1440,
-      "2023-06-25": 1440,
-      "2023-06-24": 1440
+      "2023-06-25": 1440
     }
   },
   {
@@ -389,18 +389,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/discord-musicbot.nexter32.repl.co.ico",
     "slug": "penyanyi-vf-v3",
     "status": "down",
-    "uptime": "82.68%",
+    "uptime": "82.60%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "52.73%",
+    "uptimeYear": "52.46%",
     "time": 1294,
-    "timeDay": 658,
-    "timeWeek": 515,
-    "timeMonth": 373,
-    "timeYear": 1357,
+    "timeDay": 308,
+    "timeWeek": 527,
+    "timeMonth": 375,
+    "timeYear": 1347,
     "dailyMinutesDown": {
-      "2024-06-22": 27,
+      "2024-06-23": 30,
+      "2024-06-22": 1440,
       "2024-06-21": 1440,
       "2024-06-20": 1440,
       "2024-06-19": 1440,
@@ -593,8 +594,7 @@
       "2023-07-01": 51,
       "2023-06-29": 88,
       "2023-06-27": 22,
-      "2023-06-25": 19,
-      "2023-06-24": 17
+      "2023-06-25": 19
     }
   },
   {
@@ -609,10 +609,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "93.10%",
     "time": 1347,
-    "timeDay": 386,
+    "timeDay": 478,
     "timeWeek": 634,
-    "timeMonth": 701,
-    "timeYear": 1334,
+    "timeMonth": 686,
+    "timeYear": 1335,
     "dailyMinutesDown": {
       "2024-02-07": 1363,
       "2024-02-06": 1440,
@@ -664,18 +664,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/evobot-1.nexter32.repl.co.ico",
     "slug": "penyanyi-vf-v2",
     "status": "down",
-    "uptime": "84.14%",
+    "uptime": "84.07%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "53.40%",
-    "time": 1125,
-    "timeDay": 307,
-    "timeWeek": 359,
-    "timeMonth": 343,
-    "timeYear": 1030,
+    "uptimeYear": "53.13%",
+    "time": 1124,
+    "timeDay": 161,
+    "timeWeek": 361,
+    "timeMonth": 345,
+    "timeYear": 1022,
     "dailyMinutesDown": {
-      "2024-06-22": 27,
+      "2024-06-23": 31,
+      "2024-06-22": 1440,
       "2024-06-21": 1440,
       "2024-06-20": 1440,
       "2024-06-19": 1440,
@@ -855,8 +856,7 @@
       "2023-07-06": 50,
       "2023-07-04": 174,
       "2023-07-03": 14,
-      "2023-07-01": 18,
-      "2023-06-24": 54
+      "2023-07-01": 18
     }
   },
   {
@@ -871,9 +871,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "87.12%",
     "time": 1726,
-    "timeDay": 402,
-    "timeWeek": 622,
-    "timeMonth": 649,
+    "timeDay": 361,
+    "timeWeek": 597,
+    "timeMonth": 632,
     "timeYear": 1815,
     "dailyMinutesDown": {
       "2024-02-07": 1363,
