@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 6492,
     "dailyMinutesDown": {
-      "2024-10-03": 33,
+      "2024-10-04": 34,
+      "2024-10-03": 1440,
       "2024-10-02": 1440,
       "2024-10-01": 1440,
       "2024-09-30": 1440,
@@ -379,8 +380,7 @@
       "2023-10-09": 1440,
       "2023-10-08": 1440,
       "2023-10-07": 1440,
-      "2023-10-06": 1440,
-      "2023-10-05": 1440
+      "2023-10-06": 1440
     }
   },
   {
@@ -389,18 +389,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/discord-musicbot.nexter32.repl.co.ico",
     "slug": "penyanyi-vf-v3",
     "status": "down",
-    "uptime": "75.12%",
+    "uptime": "75.06%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "24.67%",
-    "time": 754,
-    "timeDay": 312,
-    "timeWeek": 336,
-    "timeMonth": 430,
+    "uptimeYear": "24.39%",
+    "time": 746,
+    "timeDay": 167,
+    "timeWeek": 347,
+    "timeMonth": 410,
     "timeYear": 578,
     "dailyMinutesDown": {
-      "2024-10-03": 34,
+      "2024-10-04": 34,
+      "2024-10-03": 1440,
       "2024-10-02": 1440,
       "2024-10-01": 1440,
       "2024-09-30": 1440,
@@ -677,8 +678,7 @@
       "2024-01-03": 543,
       "2023-12-14": 885,
       "2023-12-13": 1440,
-      "2023-12-12": 930,
-      "2023-10-05": 28
+      "2023-12-12": 930
     }
   },
   {
@@ -692,11 +692,11 @@
     "uptimeWeek": "99.85%",
     "uptimeMonth": "99.97%",
     "uptimeYear": "93.22%",
-    "time": 938,
-    "timeDay": 785,
-    "timeWeek": 805,
-    "timeMonth": 859,
-    "timeYear": 791,
+    "time": 939,
+    "timeDay": 509,
+    "timeWeek": 752,
+    "timeMonth": 860,
+    "timeYear": 786,
     "dailyMinutesDown": {
       "2024-09-29": 15,
       "2024-02-07": 1363,
@@ -727,8 +727,7 @@
       "2024-01-04": 1440,
       "2024-01-03": 542,
       "2023-11-25": 16,
-      "2023-11-16": 20,
-      "2023-10-05": 28
+      "2023-11-16": 20
     }
   },
   {
@@ -737,18 +736,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/evobot-1.nexter32.repl.co.ico",
     "slug": "penyanyi-vf-v2",
     "status": "down",
-    "uptime": "76.98%",
+    "uptime": "76.92%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "25.28%",
-    "time": 540,
-    "timeDay": 215,
-    "timeWeek": 290,
-    "timeMonth": 322,
+    "uptimeYear": "25.01%",
+    "time": 539,
+    "timeDay": 149,
+    "timeWeek": 284,
+    "timeMonth": 323,
     "timeYear": 403,
     "dailyMinutesDown": {
-      "2024-10-03": 34,
+      "2024-10-04": 34,
+      "2024-10-03": 1440,
       "2024-10-02": 1440,
       "2024-10-01": 1440,
       "2024-09-30": 1440,
@@ -1022,8 +1022,7 @@
       "2024-01-06": 420,
       "2024-01-05": 1440,
       "2024-01-04": 1440,
-      "2024-01-03": 548,
-      "2023-10-05": 28
+      "2024-01-03": 548
     }
   },
   {
@@ -1032,15 +1031,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/musicbot-uitm.nexter32.repl.co.ico",
     "slug": "music-bot-uitm",
     "status": "up",
-    "uptime": "95.41%",
+    "uptime": "95.42%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.85%",
     "uptimeMonth": "99.97%",
     "uptimeYear": "87.24%",
-    "time": 1359,
-    "timeDay": 741,
-    "timeWeek": 600,
-    "timeMonth": 667,
+    "time": 1305,
+    "timeDay": 366,
+    "timeWeek": 531,
+    "timeMonth": 668,
     "timeYear": 1094,
     "dailyMinutesDown": {
       "2024-09-29": 15,
@@ -1092,8 +1091,7 @@
       "2023-12-15": 1440,
       "2023-12-14": 1440,
       "2023-12-13": 1440,
-      "2023-12-12": 288,
-      "2023-10-05": 28
+      "2023-12-12": 288
     }
   }
 ]
