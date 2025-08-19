@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-08-18": 45,
+      "2025-08-19": 40,
+      "2025-08-18": 1440,
       "2025-08-17": 1440,
       "2025-08-16": 1440,
       "2025-08-15": 1440,
@@ -379,8 +380,7 @@
       "2024-08-23": 1440,
       "2024-08-22": 1440,
       "2024-08-21": 1440,
-      "2024-08-20": 1440,
-      "2024-08-19": 1440
+      "2024-08-20": 1440
     }
   },
   {
@@ -389,18 +389,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/discord-musicbot.nexter32.repl.co.ico",
     "slug": "penyanyi-vf-v3",
     "status": "down",
-    "uptime": "58.54%",
+    "uptime": "58.50%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 360,
+    "time": 358,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 356,
+    "timeYear": 357,
     "dailyMinutesDown": {
-      "2025-08-18": 45,
+      "2025-08-19": 41,
+      "2025-08-18": 1440,
       "2025-08-17": 1440,
       "2025-08-16": 1440,
       "2025-08-15": 1440,
@@ -763,8 +764,7 @@
       "2024-08-23": 1440,
       "2024-08-22": 1440,
       "2024-08-21": 1440,
-      "2024-08-20": 1440,
-      "2024-08-19": 1440
+      "2024-08-20": 1440
     }
   },
   {
@@ -773,18 +773,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/uptime-discord-bot.nexter32.repl.co.ico",
     "slug": "uptime-vf-bot",
     "status": "down",
-    "uptime": "80.65%",
+    "uptime": "80.60%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "27.40%",
+    "uptimeYear": "27.13%",
     "time": 778,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 786,
     "dailyMinutesDown": {
-      "2025-08-18": 45,
+      "2025-08-19": 41,
+      "2025-08-18": 1440,
       "2025-08-17": 1440,
       "2025-08-16": 1440,
       "2025-08-15": 1440,
@@ -1059,7 +1060,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/evobot-1.nexter32.repl.co.ico",
     "slug": "penyanyi-vf-v2",
     "status": "down",
-    "uptime": "60.92%",
+    "uptime": "60.88%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -1068,9 +1069,10 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 332,
+    "timeYear": 333,
     "dailyMinutesDown": {
-      "2025-08-18": 45,
+      "2025-08-19": 41,
+      "2025-08-18": 1440,
       "2025-08-17": 1440,
       "2025-08-16": 1440,
       "2025-08-15": 1440,
@@ -1433,8 +1435,7 @@
       "2024-08-23": 1440,
       "2024-08-22": 1440,
       "2024-08-21": 1440,
-      "2024-08-20": 1440,
-      "2024-08-19": 1440
+      "2024-08-20": 1440
     }
   },
   {
@@ -1443,18 +1444,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/musicbot-uitm.nexter32.repl.co.ico",
     "slug": "music-bot-uitm",
     "status": "down",
-    "uptime": "77.78%",
+    "uptime": "77.73%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "27.40%",
-    "time": 680,
+    "uptimeYear": "27.13%",
+    "time": 678,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 711,
     "dailyMinutesDown": {
-      "2025-08-18": 45,
+      "2025-08-19": 41,
+      "2025-08-18": 1440,
       "2025-08-17": 1440,
       "2025-08-16": 1440,
       "2025-08-15": 1440,
